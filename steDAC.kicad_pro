@@ -320,6 +320,14 @@
     [
       "9538e4ed-27e6-4c37-b989-9859dc0d49e8",
       ""
+    ],
+    [
+      "8f3ba7be-9a40-49f2-8546-84dae5a13bbf",
+      "AK4493 interface"
+    ],
+    [
+      "b39b8c19-ac96-4230-ae13-d0827749d2e6",
+      "MCU interface"
     ]
   ],
   "text_variables": {}

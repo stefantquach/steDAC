@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PIC32MX120F032D-I_PT
+D Microchip PIC32MX120F032D-I/PT, 32bit PIC Microcontroller, PIC32MX, 40MHz, 32 kB Flash, 44-Pin TQFP
+K
+F http://uk.rs-online.com/web/p/products/8234302
+$ENDCMP
+#
+#End Doc Library
