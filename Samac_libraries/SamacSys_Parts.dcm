@@ -30,4 +30,16 @@ K
 F 
 $ENDCMP
 #
+$CMP SIT9365AC-2B2-33E100.000000G
+D Oscillator MEMS 100MHz +/-25ppm (Stability) LVDS 55% 3.3V 6-Pin QFN SMD T/R
+K
+F https://componentsearchengine.com/Datasheets/2/SIT9365AC-2B2-33E100.000000G.pdf
+$ENDCMP
+#
+$CMP SiT8209AI-21-33S-100.000000X
+D Standard Clock Oscillators 100MHz 3.3V 20ppm -40C +85C
+K
+F https://www.sitime.com/datasheet/SiT8209
+$ENDCMP
+#
 #End Doc Library
