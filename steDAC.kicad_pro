@@ -328,6 +328,14 @@
     [
       "b39b8c19-ac96-4230-ae13-d0827749d2e6",
       "MCU interface"
+    ],
+    [
+      "db9f8450-3c6f-407c-97ed-c7200a0e472a",
+      "Output Stage"
+    ],
+    [
+      "8362a339-0f6a-4a3a-aeb2-909536cb7eb9",
+      "Power Supplies"
     ]
   ],
   "text_variables": {}

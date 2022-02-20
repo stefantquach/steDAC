@@ -42,4 +42,10 @@ K
 F https://www.sitime.com/datasheet/SiT8209
 $ENDCMP
 #
+$CMP OPA1612-Q1
+D SoundPlus High-Performance, Bipolar-Input Audio Operational Amplifier
+K
+F https://www.ti.com/lit/ds/symlink/opa1612-q1.pdf?ts=1598979880613&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
 #End Doc Library
