@@ -48,4 +48,16 @@ K
 F https://www.ti.com/lit/ds/symlink/opa1612-q1.pdf?ts=1598979880613&ref_url=https%253A%252F%252Fwww.google.com%252F
 $ENDCMP
 #
+$CMP ADP150AUJZ-3.3-R7
+D Ultralow Noise, 150 mA CMOS Linear Regulator
+K
+F https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505
+$ENDCMP
+#
+$CMP LTC660CS8#PBF
+D Linear Technology LTC660CS8#PBF, Charge Pump Inverting 5uA, -1.5  -5.5 V, 8-Pin, SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00092207.pdf
+$ENDCMP
+#
 #End Doc Library
