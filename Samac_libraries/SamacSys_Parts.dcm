@@ -60,4 +60,58 @@ K
 F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00092207.pdf
 $ENDCMP
 #
+$CMP ADP7183ACPZN3.3-R7
+D LDO Voltage Regulators Ultra Low Noise, High PSRR #Negative LDO
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7183.pdf
+$ENDCMP
+#
+$CMP LTC1550LCS8-2#PBF
+D Switching Voltage Regulators Low Noise Sw Cap Volt Invert
+K
+F https://www.mouser.com/datasheet/2/609/15501lf-1268037.pdf
+$ENDCMP
+#
+$CMP LTC1551LCMS8#TRPBF
+D Charge Pump INV 20mA 8-Pin MSOP T/R
+K
+F https://www.arrow.com/en/products/ltc1551lcms8trpbf/analog-devices
+$ENDCMP
+#
+$CMP TPS7A3001DGNT
+D Texas Instruments TPS7A3001DGNT, Single Negative Voltage Regulator 200mA Adjustable -33 V, 2.5%, 8-Pin MSOP
+K
+F http://www.ti.com/lit/gpn/tps7a30
+$ENDCMP
+#
+$CMP PIC32MX220F032B-50I_SS
+D Microchip PIC32MX220F032B-50I/SS, 32bit PIC Microcontroller, 40MHz, 35 kB Flash, 28-pin SSOP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1725580.pdf
+$ENDCMP
+#
+$CMP OPA1622IDRCR
+D SoundPlus Audio Operational Amplifier with High Performance, Low THD+N and Bipolar Input
+K
+F http://www.ti.com/lit/gpn/opa1622
+$ENDCMP
+#
+$CMP TPS7A4901DGNT
+D Texas Instruments TPS7A4901DGNT, Single Linear Voltage Regulator, 150mA Adjustable 33 V, 2.5%, 8-Pin MSOP
+K
+F http://www.ti.com/lit/gpn/tps7a49
+$ENDCMP
+#
+$CMP LT1026CS8#PBF
+D Linear Technology LT1026CS8#PBF, Charge Pump Inverting, 7  18 V, 8-Pin, SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090775.pdf
+$ENDCMP
+#
+$CMP ATSAMS70N20A-AN
+D ARM Microcontrollers - MCU CM7,1024kB Flash,384kB SRAM,LQFP100
+K
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527E.pdf
+$ENDCMP
+#
 #End Doc Library
