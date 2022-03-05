@@ -114,4 +114,16 @@ K
 F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527E.pdf
 $ENDCMP
 #
+$CMP ADP7118ARDZ
+D LDO Linear Regulator 0.2A SOICN8 Analog Devices ADP7118ARDZ, LDO Voltage Regulator, Adjustable 200mA, 1.2  5 V +/-0.8%, 8-Pin SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/217300.pdf
+$ENDCMP
+#
+$CMP 82400102
+D TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23 Wurth Elektronik 82400102, Uni-Directional TVS Diode Array Array, 7.7V, 6-Pin SOT-23
+K
+F http://katalog.we-online.de/pbs/datasheet/82400102.pdf
+$ENDCMP
+#
 #End Doc Library

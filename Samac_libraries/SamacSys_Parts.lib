@@ -740,4 +740,59 @@ P 5 0 1 6 200 700 2800 700 2800 -3100 200 -3100 200 700 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model ADP7118ARDZ
+#/299659/738397/2.49/9/4/Integrated Circuit
+DEF ADP7118ARDZ IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "ADP7118ARDZ" 1250 200 50 H V L CNN
+F2 "SOIC127P600X175-9N" 1250 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/217300.pdf" 1250 0 50 H I L CNN
+F4 "LDO Linear Regulator 0.2A SOICN8 Analog Devices ADP7118ARDZ, LDO Voltage Regulator, Adjustable 200mA, 1.2  5 V +/-0.8%, 8-Pin SOIC" 1250 -100 50 H I L CNN "Description"
+F5 "1.75" 1250 -200 50 H I L CNN "Height"
+F6 "Analog Devices" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ADP7118ARDZ" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "584-ADP7118ARDZ" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7118ARDZ?qs=hpwIUhX6lWxB0dXcVRdYrw%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ADP7118ARDZ" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/adp7118ardz/analog-devices?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VOUT_1 1 0 0 200 R 50 50 0 0 O
+X VOUT_2 2 0 -100 200 R 50 50 0 0 O
+X SENSE/ADJ 3 0 -200 200 R 50 50 0 0 P
+X GND_1 4 0 -300 200 R 50 50 0 0 W
+X GND_2 9 700 -1000 200 U 50 50 0 0 W
+X VIN_2 8 1400 0 200 L 50 50 0 0 W
+X VIN_1 7 1400 -100 200 L 50 50 0 0 W
+X SS 6 1400 -200 200 L 50 50 0 0 I
+X EN 5 1400 -300 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 1200 100 1200 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 82400102
+#/267069/738397/2.49/6/3/Diode
+DEF 82400102 D 0 30 Y Y 1 F N
+F0 "D" 1250 300 50 H V L CNN
+F1 "82400102" 1250 200 50 H V L CNN
+F2 "SOT95P280X145-6N" 1250 100 50 H I L CNN
+F3 "http://katalog.we-online.de/pbs/datasheet/82400102.pdf" 1250 0 50 H I L CNN
+F4 "TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23 Wurth Elektronik 82400102, Uni-Directional TVS Diode Array Array, 7.7V, 6-Pin SOT-23" 1250 -100 50 H I L CNN "Description"
+F5 "1.45" 1250 -200 50 H I L CNN "Height"
+F6 "Wurth Elektronik" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "82400102" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "710-82400102" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/82400102?qs=Wn16VcyqZWq4x2NXBP4V%252Bw%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X I/O_1_1 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X I/O_2_1 3 0 -200 200 R 50 50 0 0 P
+X I/O_1_2 6 1400 0 200 L 50 50 0 0 P
+X VDD 5 1400 -100 200 L 50 50 0 0 P
+X I/O_2_2 4 1400 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library
