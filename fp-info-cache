@@ -1,4 +1,4 @@
-19797495924722906
+19825471537455248
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77546,12 +77546,131 @@ rotary encoder
 5
 4
 SamacSys_Parts
+DIP794W56P254L3486H508Q28N
+28-Lead Skinny Plastic Dual In-Line (SP) - 300mil Body [SPDIP]
+Integrated Circuit
+0
+28
+28
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+QFN40P300X500X80-31N-D
+QFN-30 Pin
+Integrated Circuit
+0
+31
+31
+SamacSys_Parts
+QFP50P1200X1200X160-64N
+ATSAMS70J20B-AN
+Integrated Circuit
+0
+64
+64
+SamacSys_Parts
+QFP50P1600X1600X160-100N
+100 lead lqfp
+Integrated Circuit
+0
+100
+100
+SamacSys_Parts
+QFP80P1200X1200X120-44N
+(PT)44-Lead(TQFP)
+Integrated Circuit
+0
+44
+44
+SamacSys_Parts
+SIT9365AC2B233E100000000G
+SIT9365AC-2B2-33E100.000000G-1
+Crystal or Oscillator
+0
+6
+6
+SamacSys_Parts
+SOIC127P599X175-8N
+S8
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOIC127P600X175-8N
+D0008A +
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOIC127P600X175-9N
+RD-8-1
+Integrated Circuit
+0
+9
+9
+SamacSys_Parts
+SON50P200X200X60-9N
+8-Lead Lead Frame Chip Scale Package [LFCSP] 2 mm × 2 mm Body and 0.55 mm Package Height (CP-8-27)
+Integrated Circuit
+0
+9
+9
+SamacSys_Parts
+SON50P300X300X100-11N
+VSON (10) 
+Undefined or Miscellaneous
+0
+11
+11
+SamacSys_Parts
+SOP65P490X110-9N
+HVSSOP
+Integrated Circuit
+0
+9
+9
+SamacSys_Parts
+SOP65P490X117-8N
+MS8 Package 8-Lead Plastic MSOP (LTC DWG # 05-08-1660)_1
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOP65P780X200-28N
+(SS)28-Lead(SSOP)
+Integrated Circuit
+0
+28
+28
+SamacSys_Parts
+SOT95P280X100-5N
+[TSOT] (UJ-5)
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts
+SOT95P280X145-6N
+SOT23-6L_2020
+Diode
+0
+6
+6
+SamacSys_Parts
+SiT8209AI2133S100000000X
+3.2 x 2.5 x 0.75 mm_2021
+Crystal or Oscillator
+0
+4
+4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
