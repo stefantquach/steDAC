@@ -126,4 +126,10 @@ K
 F http://katalog.we-online.de/pbs/datasheet/82400102.pdf
 $ENDCMP
 #
+$CMP STX-3120-5B-284C
+D Phone Connectors 3.5mm PCB STEREO JAK 5P W/SWITCH BLUE
+K
+F http://www.kycon.com/Pub_Eng_Draw/STX-3120-5B-284C.pdf
+$ENDCMP
+#
 #End Doc Library
