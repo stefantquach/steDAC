@@ -132,4 +132,16 @@ K
 F http://www.kycon.com/Pub_Eng_Draw/STX-3120-5B-284C.pdf
 $ENDCMP
 #
+$CMP ABM3B-12.000MHZ-22-D3W-T
+D Crystals 12MHz 22pF 25ppm -40C +85C
+K
+F https://componentsearchengine.com/Datasheets/1/ABM3B-12.000MHZ-22-D3W-T.pdf
+$ENDCMP
+#
+$CMP MFBM1V2012-000-R
+D Ferrite Beads Multi H Cur, Impedance 0O 6.0A SMT
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfbm1v2012-high-current-multilayer-ferrite-chip-bead-data-sheet.pdf
+$ENDCMP
+#
 #End Doc Library

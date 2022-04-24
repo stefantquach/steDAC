@@ -1,0 +1,59 @@
+ERC report (4/11/2022 7:17:48 PM, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /DAC interface/
+
+***** Sheet /MCU interface/
+[multiple_net_names]: Both OLED_SDA and TWD2 are attached to the same items; OLED_SDA will be used in the netlist
+    ; Severity: warning (excluded)
+    @(7.650 in, 6.250 in): Global Label 'OLED_SDA'
+    @(5.150 in, 6.150 in): Label 'TWD2'
+[multiple_net_names]: Both PCM_LRCLK and I2SC0_WS are attached to the same items; PCM_LRCLK will be used in the netlist
+    ; Severity: warning (excluded)
+    @(5.400 in, 6.500 in): Global Label 'PCM_LRCLK'
+    @(5.250 in, 5.900 in): Label 'I2SC0_WS'
+[multiple_net_names]: Both PCM_SIN and I2SC0_DI are attached to the same items; PCM_SIN will be used in the netlist
+    ; Severity: warning (excluded)
+    @(5.400 in, 6.600 in): Global Label 'PCM_SIN'
+    @(4.950 in, 6.250 in): Label 'I2SC0_DI'
+[multiple_net_names]: Both DAC_SDA and TWD0 are attached to the same items; DAC_SDA will be used in the netlist
+    ; Severity: warning (excluded)
+    @(9.500 in, 3.650 in): Global Label 'DAC_SDA'
+    @(7.300 in, 3.650 in): Label 'TWD0'
+[multiple_net_names]: Both PCM_BCLK and I2SC0_CK are attached to the same items; PCM_BCLK will be used in the netlist
+    ; Severity: warning (excluded)
+    @(7.800 in, 3.050 in): Global Label 'PCM_BCLK'
+    @(7.350 in, 3.050 in): Label 'I2SC0_CK'
+[multiple_net_names]: Both DAC_SCL and TWCK0 are attached to the same items; DAC_SCL will be used in the netlist
+    ; Severity: warning (excluded)
+    @(9.550 in, 4.550 in): Global Label 'DAC_SCL'
+    @(7.300 in, 4.550 in): Label 'TWCK0'
+[multiple_net_names]: Both OLED_SCL and TWCK2 are attached to the same items; OLED_SCL will be used in the netlist
+    ; Severity: warning (excluded)
+    @(7.850 in, 5.900 in): Global Label 'OLED_SCL'
+    @(7.300 in, 4.950 in): Label 'TWCK2'
+
+***** Sheet /Output Stage/
+
+***** Sheet /Power Supplies/
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; Severity: warning (excluded)
+    @(3.450 in, 6.500 in): No Connect
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; Severity: warning (excluded)
+    @(3.450 in, 5.300 in): No Connect
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; Severity: warning (excluded)
+    @(3.450 in, 2.500 in): No Connect
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; Severity: warning (excluded)
+    @(3.450 in, 4.150 in): No Connect
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; Severity: error (excluded)
+    @(8.800 in, 3.850 in): Symbol IC9 [ADP7118ARDZ] Pin 2 [VOUT_2, Power output, Line]
+    @(8.800 in, 3.950 in): Symbol IC9 [ADP7118ARDZ] Pin 1 [VOUT_1, Power output, Line]
+
+***** Sheet /Connectors/
+
+ ** ERC messages: 12  Errors 1  Warnings 11
