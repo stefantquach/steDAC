@@ -611,7 +611,7 @@
       (reference "C71") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/f303b0c2-a05f-4356-9b92-85d33d9dd955/c4d47109-cf38-4f18-93a9-5313f71443ad"
-      (reference "C72") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C72") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/d5b8a896-7fd2-4fc2-9925-c2edf72fc4d6"
       (reference "C73") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
