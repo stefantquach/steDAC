@@ -530,13 +530,13 @@
       (reference "C44") (unit 1) (value "47u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/132cce39-073c-4518-9ffa-7676c64598a5"
-      (reference "C45") (unit 1) (value "47u_16V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+      (reference "C45") (unit 1) (value "47u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/46a1a632-2c3a-4403-b408-cfa7551568d4"
-      (reference "C46") (unit 1) (value "47u_16V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+      (reference "C46") (unit 1) (value "47u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/d19879c4-e981-40a1-8ff1-52b23269742d"
-      (reference "C47") (unit 1) (value "47u_16V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+      (reference "C47") (unit 1) (value "47u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/f87829ab-20e4-417f-9491-9776dcdd355a"
       (reference "C48") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
