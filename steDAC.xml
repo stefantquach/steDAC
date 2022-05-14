@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\stefa\Documents\Projects\DAC\steDAC\steDAC.kicad_sch</source>
-    <date>5/10/2022 8:37:42 PM</date>
+    <date>5/12/2022 7:44:02 PM</date>
     <tool>Eeschema (6.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -518,7 +518,7 @@
       <tstamps>f0b6ca38-a0e8-4fb5-ba93-0d243d41e093</tstamps>
     </comp>
     <comp ref="R5">
-      <value>5.6k</value>
+      <value>5.62k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mouser Part Number">71-CRCW08055K62FKEAC</field>
@@ -1344,7 +1344,7 @@
       <tstamps>33998521-0616-4fc1-aa62-f0a0e091c212</tstamps>
     </comp>
     <comp ref="C45">
-      <value>47u_16V</value>
+      <value>47u</value>
       <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
       <fields>
         <field name="Mouser Part Number">667-ECA-1CHG470I</field>
@@ -1359,7 +1359,7 @@
       <tstamps>132cce39-073c-4518-9ffa-7676c64598a5</tstamps>
     </comp>
     <comp ref="C46">
-      <value>47u_16V</value>
+      <value>47u</value>
       <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
       <fields>
         <field name="Mouser Part Number">667-ECA-1CHG470I</field>
@@ -1374,7 +1374,7 @@
       <tstamps>46a1a632-2c3a-4403-b408-cfa7551568d4</tstamps>
     </comp>
     <comp ref="C47">
-      <value>47u_16V</value>
+      <value>47u</value>
       <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
       <fields>
         <field name="Mouser Part Number">667-ECA-1CHG470I</field>

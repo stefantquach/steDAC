@@ -144,4 +144,10 @@ K
 F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfbm1v2012-high-current-multilayer-ferrite-chip-bead-data-sheet.pdf
 $ENDCMP
 #
+$CMP ADP7182ACPZN-R7
+D LDO Voltage Regulators 200mA Negative Vout LDO
+K
+F https://componentsearchengine.com/Datasheets/1/ADP7182ACPZN-R7.pdf
+$ENDCMP
+#
 #End Doc Library
