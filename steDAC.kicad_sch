@@ -586,6 +586,9 @@
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/f7240cc5-8715-428c-8cf7-9b700d94fe66"
       (reference "C65") (unit 1) (value "2.2u") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
     )
+    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/193351c7-03e1-4b51-b2fb-3588bccb1b9b"
+      (reference "C66") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/661b104a-58a7-4d6c-bdea-b5f783b54160"
       (reference "C68") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\stefa\Documents\Projects\DAC\steDAC\steDAC.kicad_sch</source>
-    <date>5/12/2022 7:44:02 PM</date>
+    <date>5/13/2022 11:39:50 PM</date>
     <tool>Eeschema (6.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1644,49 +1644,19 @@
       <tstamps>b1f1e834-aff4-46ad-a3d5-71f4fcfb7925</tstamps>
     </comp>
     <comp ref="C65">
-      <value>1u</value>
-      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <value>2.2u</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
       <fields>
-        <field name="Mouser Part Number">80-ESH105M100AC3AA</field>
-        <field name="Part Number">ESH105M100AC3AA</field>
+        <field name="Mouser Part Number">667-ECE-A1HKA2R2</field>
+        <field name="Part Number">ECE-A1HKA2R2</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
-      <property name="Part Number" value="ESH105M100AC3AA"/>
-      <property name="Mouser Part Number" value="80-ESH105M100AC3AA"/>
+      <property name="Part Number" value="ECE-A1HKA2R2"/>
+      <property name="Mouser Part Number" value="667-ECE-A1HKA2R2"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>b90edd9a-d621-4e13-af74-546bad590147</tstamps>
-    </comp>
-    <comp ref="C66">
-      <value>10u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <fields>
-        <field name="Mouser Part Number">963-LMK212ABJ106KG8T</field>
-        <field name="Part Number">LMK212ABJ106KG8T</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="LMK212ABJ106KG8T"/>
-      <property name="Mouser Part Number" value="963-LMK212ABJ106KG8T"/>
-      <property name="Sheetname" value="Power Supplies"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>e1477dad-84c2-4da0-aa1e-2ef4ba3194fd</tstamps>
-    </comp>
-    <comp ref="C67">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <fields>
-        <field name="Mouser Part Number">80-C0805C103K4RECTU</field>
-        <field name="Part Number">C0805C103K4RECTU</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C103K4RECTU"/>
-      <property name="Mouser Part Number" value="80-C0805C103K4RECTU"/>
-      <property name="Sheetname" value="Power Supplies"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>33945428-d60d-4625-9a34-a3a20a9418bd</tstamps>
+      <tstamps>f7240cc5-8715-428c-8cf7-9b700d94fe66</tstamps>
     </comp>
     <comp ref="C68">
       <value>10n</value>
@@ -1719,21 +1689,6 @@
       <tstamps>0313dad8-6558-449a-941d-ef51a8cc2f01</tstamps>
     </comp>
     <comp ref="C70">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <fields>
-        <field name="Mouser Part Number">80-C0805C103K4RECTU</field>
-        <field name="Part Number">C0805C103K4RECTU</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C103K4RECTU"/>
-      <property name="Mouser Part Number" value="80-C0805C103K4RECTU"/>
-      <property name="Sheetname" value="Power Supplies"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>a277b6f1-5040-42e0-9373-cb04904be7bc</tstamps>
-    </comp>
-    <comp ref="C71">
       <value>10u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
@@ -1741,12 +1696,27 @@
         <field name="Part Number">LMK212ABJ106KG8T</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="LMK212ABJ106KG8T"/>
       <property name="Mouser Part Number" value="963-LMK212ABJ106KG8T"/>
+      <property name="Part Number" value="LMK212ABJ106KG8T"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>a1954676-024d-47d5-870a-7affa33dc33c</tstamps>
+      <tstamps>1696e6fa-1bd7-4eba-a3f3-544403c8a3bb</tstamps>
+    </comp>
+    <comp ref="C71">
+      <value>2.2u</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Mouser Part Number">667-ECE-A1HKA2R2</field>
+        <field name="Part Number">ECE-A1HKA2R2</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Part Number" value="ECE-A1HKA2R2"/>
+      <property name="Mouser Part Number" value="667-ECE-A1HKA2R2"/>
+      <property name="Sheetname" value="Power Supplies"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
+      <tstamps>c7ea0eb3-7a68-40a3-a4e6-12bf316c6d5d</tstamps>
     </comp>
     <comp ref="C73">
       <value>4.7u</value>
@@ -1822,6 +1792,21 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
       <tstamps>3173e352-c0ea-49a4-821b-9c97dd93e4c4</tstamps>
+    </comp>
+    <comp ref="C80">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser Part Number">963-EMK212B7105KG-T</field>
+        <field name="Part Number">EMK212B7105KG-T</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser Part Number" value="963-EMK212B7105KG-T"/>
+      <property name="Part Number" value="EMK212B7105KG-T"/>
+      <property name="Sheetname" value="Power Supplies"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
+      <tstamps>852d82ae-c957-42c0-9d29-d20e7af519ca</tstamps>
     </comp>
     <comp ref="FB3">
       <value>0R</value>
@@ -2116,32 +2101,32 @@
       <tstamps>431f62b8-6547-4932-ad8d-7f82f9210d53</tstamps>
     </comp>
     <comp ref="IC10">
-      <value>TPS7A3001DGNT</value>
-      <footprint>SamacSys_Parts:SOP65P490X110-9N</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/tps7a30</datasheet>
+      <value>ADP7182ACPZN-R7</value>
+      <footprint>SON65P200X200X65-7N-D</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/ADP7182ACPZN-R7.pdf</datasheet>
       <fields>
-        <field name="Arrow Part Number">TPS7A3001DGNT</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tps7a3001dgnt/texas-instruments?region=nac</field>
-        <field name="Description">Texas Instruments TPS7A3001DGNT, Single Negative Voltage Regulator 200mA Adjustable -33 V, 2.5%, 8-Pin MSOP</field>
-        <field name="Height">1.1</field>
-        <field name="Manufacturer_Name">Texas Instruments</field>
-        <field name="Manufacturer_Part_Number">TPS7A3001DGNT</field>
-        <field name="Mouser Part Number">595-TPS7A3001DGNT</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A3001DGNT?qs=Ze4%2FuFuz19LavO%2F4UkWKug%3D%3D</field>
+        <field name="Arrow Part Number">ADP7182ACPZN-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp7182acpzn-r7/analog-devices?region=nac</field>
+        <field name="Description">LDO Voltage Regulators 200mA Negative Vout LDO</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP7182ACPZN-R7</field>
+        <field name="Mouser Part Number">584-ADP7182ACPZN-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-ADP7182ACPZN-R7</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="TPS7A3001DGNT" description="Texas Instruments TPS7A3001DGNT, Single Negative Voltage Regulator 200mA Adjustable -33 V, 2.5%, 8-Pin MSOP"/>
-      <property name="Description" value="Texas Instruments TPS7A3001DGNT, Single Negative Voltage Regulator 200mA Adjustable -33 V, 2.5%, 8-Pin MSOP"/>
-      <property name="Height" value="1.1"/>
-      <property name="Manufacturer_Name" value="Texas Instruments"/>
-      <property name="Manufacturer_Part_Number" value="TPS7A3001DGNT"/>
-      <property name="Mouser Part Number" value="595-TPS7A3001DGNT"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A3001DGNT?qs=Ze4%2FuFuz19LavO%2F4UkWKug%3D%3D"/>
-      <property name="Arrow Part Number" value="TPS7A3001DGNT"/>
-      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/tps7a3001dgnt/texas-instruments?region=nac"/>
+      <libsource lib="SamacSys_Parts" part="ADP7182ACPZN-R7" description="LDO Voltage Regulators 200mA Negative Vout LDO"/>
+      <property name="Description" value="LDO Voltage Regulators 200mA Negative Vout LDO"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="ADP7182ACPZN-R7"/>
+      <property name="Mouser Part Number" value="584-ADP7182ACPZN-R7"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=584-ADP7182ACPZN-R7"/>
+      <property name="Arrow Part Number" value="ADP7182ACPZN-R7"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp7182acpzn-r7/analog-devices?region=nac"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>a62a1927-a649-4648-9d96-77c36c0d5917</tstamps>
+      <tstamps>fd06f58a-7091-4d1d-bf60-5221b6e153bf</tstamps>
     </comp>
     <comp ref="IC11">
       <value>ADP150AUJZ-3.3-R7</value>
@@ -2171,6 +2156,21 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
       <tstamps>eaf50262-0a7d-4841-a953-73f203c5e45a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser Part Number">667-ERA-6AEB102V</field>
+        <field name="Part Number">ERA-6AEB102V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Part Number" value="ERA-6AEB102V"/>
+      <property name="Mouser Part Number" value="667-ERA-6AEB102V"/>
+      <property name="Sheetname" value="Power Supplies"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
+      <tstamps>5d1ccb62-3628-4af7-9d97-f29c11ec208d</tstamps>
     </comp>
     <comp ref="R28">
       <value>10k</value>
@@ -2276,6 +2276,21 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
       <tstamps>5394ad8d-2751-4e94-93eb-5a51aadfd044</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser Part Number">603-RT0805BRD0710KL</field>
+        <field name="Part Number">RT0805BRD0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Part Number" value="RT0805BRD0710KL"/>
+      <property name="Mouser Part Number" value="603-RT0805BRD0710KL"/>
+      <property name="Sheetname" value="Power Supplies"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
+      <tstamps>8d37518f-da56-434f-b1d9-f056c387657a</tstamps>
     </comp>
     <comp ref="C72">
       <value>0.1u</value>
@@ -2802,6 +2817,33 @@
         <pin num="9" name="GND_2" type="power_in"/>
       </pins>
     </libpart>
+    <libpart lib="SamacSys_Parts" part="ADP7182ACPZN-R7">
+      <description>LDO Voltage Regulators 200mA Negative Vout LDO</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/ADP7182ACPZN-R7.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADP7182ACPZN-R7</field>
+        <field name="Footprint">SON65P200X200X65-7N-D</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/ADP7182ACPZN-R7.pdf</field>
+        <field name="Description">LDO Voltage Regulators 200mA Negative Vout LDO</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP7182ACPZN-R7</field>
+        <field name="Mouser Part Number">584-ADP7182ACPZN-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-ADP7182ACPZN-R7</field>
+        <field name="Arrow Part Number">ADP7182ACPZN-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp7182acpzn-r7/analog-devices?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="passive"/>
+        <pin num="2" name="ADJ" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="VIN" type="passive"/>
+        <pin num="7" name="EP" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="SamacSys_Parts" part="ATSAMS70N20A-AN">
       <description>ARM Microcontrollers - MCU CM7,1024kB Flash,384kB SRAM,LQFP100</description>
       <docs>https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527E.pdf</docs>
@@ -3019,35 +3061,6 @@
         <pin num="4" name="VDD" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="SamacSys_Parts" part="TPS7A3001DGNT">
-      <description>Texas Instruments TPS7A3001DGNT, Single Negative Voltage Regulator 200mA Adjustable -33 V, 2.5%, 8-Pin MSOP</description>
-      <docs>http://www.ti.com/lit/gpn/tps7a30</docs>
-      <fields>
-        <field name="Reference">IC</field>
-        <field name="Value">TPS7A3001DGNT</field>
-        <field name="Footprint">SOP65P490X110-9N</field>
-        <field name="Datasheet">http://www.ti.com/lit/gpn/tps7a30</field>
-        <field name="Description">Texas Instruments TPS7A3001DGNT, Single Negative Voltage Regulator 200mA Adjustable -33 V, 2.5%, 8-Pin MSOP</field>
-        <field name="Height">1.1</field>
-        <field name="Manufacturer_Name">Texas Instruments</field>
-        <field name="Manufacturer_Part_Number">TPS7A3001DGNT</field>
-        <field name="Mouser Part Number">595-TPS7A3001DGNT</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A3001DGNT?qs=Ze4%2FuFuz19LavO%2F4UkWKug%3D%3D</field>
-        <field name="Arrow Part Number">TPS7A3001DGNT</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tps7a3001dgnt/texas-instruments?region=nac</field>
-      </fields>
-      <pins>
-        <pin num="1" name="OUT" type="power_out"/>
-        <pin num="2" name="FB" type="passive"/>
-        <pin num="3" name="NC" type="no_connect"/>
-        <pin num="4" name="GND" type="passive"/>
-        <pin num="5" name="EN" type="passive"/>
-        <pin num="6" name="NR/SS" type="passive"/>
-        <pin num="7" name="DNC" type="passive"/>
-        <pin num="8" name="IN" type="passive"/>
-        <pin num="9" name="EP" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Type-C" part="HRO-TYPE-C-31-M-12">
       <fields>
         <field name="Reference">USB</field>
@@ -3119,7 +3132,7 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
     </library>
     <library logical="SamacSys_Parts">
-      <uri>C:/Users/stefa/Documents/Projects/DAC/steDAC/Samac_libraries/SamacSys_Parts.kicad_sym</uri>
+      <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC/Samac_libraries/SamacSys_Parts.lib</uri>
     </library>
     <library logical="Type-C">
       <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC/libraries/Type-C.pretty/Type-C.lib</uri>
@@ -3197,6 +3210,7 @@
       <node ref="C36" pin="2" pintype="passive"/>
       <node ref="C68" pin="2" pintype="passive"/>
       <node ref="C69" pin="1" pintype="passive"/>
+      <node ref="C70" pin="2" pintype="passive"/>
       <node ref="IC9" pin="1" pinfunction="VOUT_1" pintype="power_out"/>
       <node ref="IC9" pin="2" pinfunction="VOUT_2" pintype="power_out"/>
       <node ref="R31" pin="1" pintype="passive"/>
@@ -3212,10 +3226,10 @@
       <node ref="C23" pin="2" pintype="passive"/>
       <node ref="C33" pin="2" pintype="passive"/>
       <node ref="C37" pin="2" pintype="passive"/>
-      <node ref="C70" pin="2" pintype="passive"/>
-      <node ref="C71" pin="1" pintype="passive"/>
-      <node ref="IC10" pin="1" pinfunction="OUT" pintype="power_out"/>
-      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="C71" pin="2" pintype="passive"/>
+      <node ref="C80" pin="1" pintype="passive"/>
+      <node ref="IC10" pin="1" pinfunction="VOUT" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
       <node ref="U3" pin="4" pinfunction="V-" pintype="power_in"/>
       <node ref="U4" pin="4" pinfunction="V-" pintype="power_in"/>
@@ -3380,8 +3394,6 @@
       <node ref="C62" pin="2" pintype="passive"/>
       <node ref="C63" pin="2" pintype="passive"/>
       <node ref="C65" pin="1" pintype="passive"/>
-      <node ref="C66" pin="2" pintype="passive"/>
-      <node ref="C67" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C72" pin="2" pintype="passive"/>
       <node ref="C73" pin="2" pintype="passive"/>
@@ -3401,7 +3413,8 @@
       <node ref="FB7" pin="1" pintype="passive"/>
       <node ref="FB8" pin="1" pintype="passive"/>
       <node ref="FB9" pin="1" pintype="passive"/>
-      <node ref="IC10" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="IC10" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="IC10" pin="7" pinfunction="EP" pintype="passive"/>
       <node ref="IC11" pin="2" pinfunction="GND" pintype="passive"/>
       <node ref="IC2" pin="14" pinfunction="DGND" pintype="passive"/>
       <node ref="IC2" pin="22" pinfunction="RT1" pintype="passive"/>
@@ -3464,7 +3477,7 @@
       <node ref="C59" pin="2" pintype="passive"/>
       <node ref="C60" pin="2" pintype="passive"/>
       <node ref="C69" pin="2" pintype="passive"/>
-      <node ref="C71" pin="2" pintype="passive"/>
+      <node ref="C71" pin="1" pintype="passive"/>
       <node ref="FB10" pin="2" pintype="passive"/>
       <node ref="FB2" pin="2" pintype="passive"/>
       <node ref="FB5" pin="2" pintype="passive"/>
@@ -3472,7 +3485,6 @@
       <node ref="FB7" pin="2" pintype="passive"/>
       <node ref="FB8" pin="2" pintype="passive"/>
       <node ref="FB9" pin="2" pintype="passive"/>
-      <node ref="IC10" pin="4" pinfunction="GND" pintype="passive"/>
       <node ref="IC2" pin="11" pinfunction="AGND_L" pintype="passive"/>
       <node ref="IC2" pin="30" pinfunction="AGND_R" pintype="passive"/>
       <node ref="IC9" pin="4" pinfunction="GND_1" pintype="power_in"/>
@@ -3482,7 +3494,7 @@
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="R24" pin="2" pintype="passive"/>
       <node ref="R30" pin="2" pintype="passive"/>
-      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
       <node ref="U4" pin="11" pinfunction="Thermal_pad" pintype="passive"/>
       <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
     </net>
@@ -3581,26 +3593,24 @@
     </net>
     <net code="46" name="Net-(C65-Pad2)">
       <node ref="C65" pin="2" pintype="passive"/>
-      <node ref="C66" pin="1" pintype="passive"/>
-      <node ref="IC10" pin="5" pinfunction="EN" pintype="passive"/>
-      <node ref="IC10" pin="8" pinfunction="IN" pintype="passive"/>
+      <node ref="IC10" pin="3" pinfunction="EN" pintype="passive"/>
+      <node ref="IC10" pin="6" pinfunction="VIN" pintype="passive"/>
       <node ref="IC8" pin="4" pinfunction="-VOUT" pintype="passive"/>
     </net>
-    <net code="47" name="Net-(C67-Pad1)">
-      <node ref="C67" pin="1" pintype="passive"/>
-      <node ref="IC10" pin="6" pinfunction="NR/SS" pintype="passive"/>
-    </net>
-    <net code="48" name="Net-(C68-Pad1)">
+    <net code="47" name="Net-(C68-Pad1)">
       <node ref="C68" pin="1" pintype="passive"/>
       <node ref="IC9" pin="3" pinfunction="SENSE/ADJ" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
       <node ref="R31" pin="2" pintype="passive"/>
     </net>
-    <net code="49" name="Net-(C70-Pad1)">
+    <net code="48" name="Net-(C70-Pad1)">
       <node ref="C70" pin="1" pintype="passive"/>
-      <node ref="IC10" pin="2" pinfunction="FB" pintype="passive"/>
-      <node ref="R32" pin="1" pintype="passive"/>
-      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(C80-Pad2)">
+      <node ref="C80" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
     </net>
     <net code="50" name="Net-(D2-Pad1)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
@@ -3637,27 +3647,33 @@
       <node ref="IC4" pin="3" pinfunction="EN" pintype="passive"/>
       <node ref="R28" pin="1" pintype="passive"/>
     </net>
-    <net code="58" name="Net-(IC11-Pad3)">
+    <net code="58" name="Net-(IC10-Pad2)">
+      <node ref="IC10" pin="2" pinfunction="ADJ" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(IC11-Pad3)">
       <node ref="IC11" pin="3" pinfunction="EN" pintype="passive"/>
       <node ref="R37" pin="1" pintype="passive"/>
     </net>
-    <net code="59" name="Net-(J2-Pad4)">
+    <net code="60" name="Net-(J2-Pad4)">
       <node ref="J2" pin="4" pinfunction="CC1" pintype="input"/>
       <node ref="R34" pin="1" pintype="passive"/>
     </net>
-    <net code="60" name="Net-(J2-Pad10)">
+    <net code="61" name="Net-(J2-Pad10)">
       <node ref="J2" pin="10" pinfunction="CC2" pintype="input"/>
       <node ref="R35" pin="1" pintype="passive"/>
     </net>
-    <net code="61" name="Net-(J5-Pad1)">
+    <net code="62" name="Net-(J5-Pad1)">
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="62" name="Net-(R3-Pad2)">
+    <net code="63" name="Net-(R3-Pad2)">
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="Y2" pin="1" pinfunction="~{ST}" pintype="passive"/>
     </net>
-    <net code="63" name="OLED_3V3">
+    <net code="64" name="OLED_3V3">
       <node ref="C74" pin="1" pintype="passive"/>
       <node ref="C75" pin="1" pintype="passive"/>
       <node ref="C76" pin="1" pintype="passive"/>
@@ -3665,260 +3681,257 @@
       <node ref="IC11" pin="5" pinfunction="VOUT" pintype="power_out"/>
       <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="64" name="OLED_SCL">
+    <net code="65" name="OLED_SCL">
       <node ref="IC3" pin="51" pinfunction="PD28" pintype="passive"/>
       <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
     </net>
-    <net code="65" name="OLED_SDA">
+    <net code="66" name="OLED_SDA">
       <node ref="IC3" pin="32" pinfunction="PD27" pintype="passive"/>
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
     </net>
-    <net code="66" name="OUTL">
+    <net code="67" name="OUTL">
       <node ref="C35" pin="2" pintype="passive"/>
       <node ref="J7" pin="3" pintype="passive"/>
       <node ref="R27" pin="2" pintype="passive"/>
       <node ref="U4" pin="7" pinfunction="OUTB" pintype="output"/>
     </net>
-    <net code="67" name="OUTR">
+    <net code="68" name="OUTR">
       <node ref="C34" pin="1" pintype="passive"/>
       <node ref="J7" pin="5" pintype="passive"/>
       <node ref="R26" pin="1" pintype="passive"/>
       <node ref="U4" pin="9" pinfunction="OUTA" pintype="output"/>
     </net>
-    <net code="68" name="PCM_BCLK">
+    <net code="69" name="PCM_BCLK">
       <node ref="IC2" pin="20" pinfunction="DATA_CLK" pintype="passive"/>
       <node ref="IC3" pin="70" pinfunction="PA1" pintype="passive"/>
     </net>
-    <net code="69" name="PCM_LRCLK">
+    <net code="70" name="PCM_LRCLK">
       <node ref="IC2" pin="19" pinfunction="DATA1" pintype="passive"/>
       <node ref="IC3" pin="33" pinfunction="PA15" pintype="passive"/>
     </net>
-    <net code="70" name="PCM_SIN">
+    <net code="71" name="PCM_SIN">
       <node ref="IC2" pin="18" pinfunction="DATA2" pintype="passive"/>
       <node ref="IC3" pin="30" pinfunction="PA16" pintype="passive"/>
     </net>
-    <net code="71" name="USB_D+">
+    <net code="72" name="USB_D+">
       <node ref="D3" pin="4" pinfunction="I/O_2_2" pintype="passive"/>
       <node ref="IC3" pin="95" pinfunction="HSDP" pintype="passive"/>
     </net>
-    <net code="72" name="USB_D-">
+    <net code="73" name="USB_D-">
       <node ref="D3" pin="6" pinfunction="I/O_1_2" pintype="passive"/>
       <node ref="IC3" pin="94" pinfunction="HSDM" pintype="passive"/>
     </net>
-    <net code="73" name="VBUS">
+    <net code="74" name="VBUS">
       <node ref="C72" pin="1" pintype="passive"/>
       <node ref="D3" pin="5" pinfunction="VDD" pintype="passive"/>
       <node ref="F2" pin="2" pintype="passive"/>
       <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="74" name="unconnected-(IC2-Pad4)">
+    <net code="75" name="unconnected-(IC2-Pad4)">
       <node ref="IC2" pin="4" pinfunction="BIAS" pintype="passive+no_connect"/>
     </net>
-    <net code="75" name="unconnected-(IC2-Pad5)">
+    <net code="76" name="unconnected-(IC2-Pad5)">
       <node ref="IC2" pin="5" pinfunction="SW" pintype="passive+no_connect"/>
     </net>
-    <net code="76" name="unconnected-(IC2-Pad6)">
+    <net code="77" name="unconnected-(IC2-Pad6)">
       <node ref="IC2" pin="6" pinfunction="FSYNC" pintype="passive+no_connect"/>
     </net>
-    <net code="77" name="unconnected-(IC2-Pad7)">
+    <net code="78" name="unconnected-(IC2-Pad7)">
       <node ref="IC2" pin="7" pinfunction="HPSDB" pintype="passive+no_connect"/>
     </net>
-    <net code="78" name="unconnected-(IC2-Pad26)">
+    <net code="79" name="unconnected-(IC2-Pad26)">
       <node ref="IC2" pin="26" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="79" name="unconnected-(IC3-Pad1)">
+    <net code="80" name="unconnected-(IC3-Pad1)">
       <node ref="IC3" pin="1" pinfunction="PD0" pintype="passive+no_connect"/>
     </net>
-    <net code="80" name="unconnected-(IC3-Pad2)">
+    <net code="81" name="unconnected-(IC3-Pad2)">
       <node ref="IC3" pin="2" pinfunction="PD31" pintype="passive+no_connect"/>
     </net>
-    <net code="81" name="unconnected-(IC3-Pad4)">
+    <net code="82" name="unconnected-(IC3-Pad4)">
       <node ref="IC3" pin="4" pinfunction="VDDOUT" pintype="passive+no_connect"/>
     </net>
-    <net code="82" name="unconnected-(IC3-Pad11)">
+    <net code="83" name="unconnected-(IC3-Pad11)">
       <node ref="IC3" pin="11" pinfunction="PB1" pintype="passive+no_connect"/>
     </net>
-    <net code="83" name="unconnected-(IC3-Pad12)">
+    <net code="84" name="unconnected-(IC3-Pad12)">
       <node ref="IC3" pin="12" pinfunction="PB0" pintype="passive+no_connect"/>
     </net>
-    <net code="84" name="unconnected-(IC3-Pad13)">
+    <net code="85" name="unconnected-(IC3-Pad13)">
       <node ref="IC3" pin="13" pinfunction="PA20" pintype="passive+no_connect"/>
     </net>
-    <net code="85" name="unconnected-(IC3-Pad14)">
+    <net code="86" name="unconnected-(IC3-Pad14)">
       <node ref="IC3" pin="14" pinfunction="PA19" pintype="passive+no_connect"/>
     </net>
-    <net code="86" name="unconnected-(IC3-Pad15)">
+    <net code="87" name="unconnected-(IC3-Pad15)">
       <node ref="IC3" pin="15" pinfunction="PA18" pintype="passive+no_connect"/>
     </net>
-    <net code="87" name="unconnected-(IC3-Pad16)">
+    <net code="88" name="unconnected-(IC3-Pad16)">
       <node ref="IC3" pin="16" pinfunction="PA17" pintype="passive+no_connect"/>
     </net>
-    <net code="88" name="unconnected-(IC3-Pad17)">
+    <net code="89" name="unconnected-(IC3-Pad17)">
       <node ref="IC3" pin="17" pinfunction="PB2" pintype="passive+no_connect"/>
     </net>
-    <net code="89" name="unconnected-(IC3-Pad20)">
+    <net code="90" name="unconnected-(IC3-Pad20)">
       <node ref="IC3" pin="20" pinfunction="PB3" pintype="passive+no_connect"/>
     </net>
-    <net code="90" name="unconnected-(IC3-Pad21)">
+    <net code="91" name="unconnected-(IC3-Pad21)">
       <node ref="IC3" pin="21" pinfunction="PA21" pintype="passive+no_connect"/>
     </net>
-    <net code="91" name="unconnected-(IC3-Pad24)">
+    <net code="92" name="unconnected-(IC3-Pad24)">
       <node ref="IC3" pin="24" pinfunction="PA7" pintype="passive+no_connect"/>
     </net>
-    <net code="92" name="unconnected-(IC3-Pad25)">
+    <net code="93" name="unconnected-(IC3-Pad25)">
       <node ref="IC3" pin="25" pinfunction="PA8" pintype="passive+no_connect"/>
     </net>
-    <net code="93" name="unconnected-(IC3-Pad26)">
+    <net code="94" name="unconnected-(IC3-Pad26)">
       <node ref="IC3" pin="26" pinfunction="PA22" pintype="passive+no_connect"/>
     </net>
-    <net code="94" name="unconnected-(IC3-Pad27)">
+    <net code="95" name="unconnected-(IC3-Pad27)">
       <node ref="IC3" pin="27" pinfunction="PA13" pintype="passive+no_connect"/>
     </net>
-    <net code="95" name="unconnected-(IC3-Pad31)">
+    <net code="96" name="unconnected-(IC3-Pad31)">
       <node ref="IC3" pin="31" pinfunction="PA23" pintype="passive+no_connect"/>
     </net>
-    <net code="96" name="unconnected-(IC3-Pad34)">
+    <net code="97" name="unconnected-(IC3-Pad34)">
       <node ref="IC3" pin="34" pinfunction="PA14" pintype="passive+no_connect"/>
     </net>
-    <net code="97" name="unconnected-(IC3-Pad35)">
+    <net code="98" name="unconnected-(IC3-Pad35)">
       <node ref="IC3" pin="35" pinfunction="PD25" pintype="passive+no_connect"/>
     </net>
-    <net code="98" name="unconnected-(IC3-Pad36)">
+    <net code="99" name="unconnected-(IC3-Pad36)">
       <node ref="IC3" pin="36" pinfunction="PD26" pintype="passive+no_connect"/>
     </net>
-    <net code="99" name="unconnected-(IC3-Pad37)">
+    <net code="100" name="unconnected-(IC3-Pad37)">
       <node ref="IC3" pin="37" pinfunction="PD24" pintype="passive+no_connect"/>
     </net>
-    <net code="100" name="unconnected-(IC3-Pad38)">
+    <net code="101" name="unconnected-(IC3-Pad38)">
       <node ref="IC3" pin="38" pinfunction="PA24" pintype="passive+no_connect"/>
     </net>
-    <net code="101" name="unconnected-(IC3-Pad40)">
+    <net code="102" name="unconnected-(IC3-Pad40)">
       <node ref="IC3" pin="40" pinfunction="PA25" pintype="passive+no_connect"/>
     </net>
-    <net code="102" name="unconnected-(IC3-Pad41)">
+    <net code="103" name="unconnected-(IC3-Pad41)">
       <node ref="IC3" pin="41" pinfunction="PD22" pintype="passive+no_connect"/>
     </net>
-    <net code="103" name="unconnected-(IC3-Pad42)">
+    <net code="104" name="unconnected-(IC3-Pad42)">
       <node ref="IC3" pin="42" pinfunction="PA26" pintype="passive+no_connect"/>
     </net>
-    <net code="104" name="unconnected-(IC3-Pad43)">
+    <net code="105" name="unconnected-(IC3-Pad43)">
       <node ref="IC3" pin="43" pinfunction="PD21" pintype="passive+no_connect"/>
     </net>
-    <net code="105" name="unconnected-(IC3-Pad44)">
+    <net code="106" name="unconnected-(IC3-Pad44)">
       <node ref="IC3" pin="44" pinfunction="PA11" pintype="passive+no_connect"/>
     </net>
-    <net code="106" name="unconnected-(IC3-Pad45)">
+    <net code="107" name="unconnected-(IC3-Pad45)">
       <node ref="IC3" pin="45" pinfunction="PD20" pintype="passive+no_connect"/>
     </net>
-    <net code="107" name="unconnected-(IC3-Pad46)">
+    <net code="108" name="unconnected-(IC3-Pad46)">
       <node ref="IC3" pin="46" pinfunction="PA10" pintype="passive+no_connect"/>
     </net>
-    <net code="108" name="unconnected-(IC3-Pad47)">
+    <net code="109" name="unconnected-(IC3-Pad47)">
       <node ref="IC3" pin="47" pinfunction="PD19" pintype="passive+no_connect"/>
     </net>
-    <net code="109" name="unconnected-(IC3-Pad48)">
+    <net code="110" name="unconnected-(IC3-Pad48)">
       <node ref="IC3" pin="48" pinfunction="PA12" pintype="passive+no_connect"/>
     </net>
-    <net code="110" name="unconnected-(IC3-Pad49)">
+    <net code="111" name="unconnected-(IC3-Pad49)">
       <node ref="IC3" pin="49" pinfunction="PD18" pintype="passive+no_connect"/>
     </net>
-    <net code="111" name="unconnected-(IC3-Pad50)">
+    <net code="112" name="unconnected-(IC3-Pad50)">
       <node ref="IC3" pin="50" pinfunction="PA27" pintype="passive+no_connect"/>
     </net>
-    <net code="112" name="unconnected-(IC3-Pad56)">
+    <net code="113" name="unconnected-(IC3-Pad56)">
       <node ref="IC3" pin="56" pinfunction="PD16" pintype="passive+no_connect"/>
     </net>
-    <net code="113" name="unconnected-(IC3-Pad59)">
+    <net code="114" name="unconnected-(IC3-Pad59)">
       <node ref="IC3" pin="59" pinfunction="PD14" pintype="passive+no_connect"/>
     </net>
-    <net code="114" name="unconnected-(IC3-Pad60)">
+    <net code="115" name="unconnected-(IC3-Pad60)">
       <node ref="IC3" pin="60" pinfunction="TST" pintype="passive+no_connect"/>
     </net>
-    <net code="115" name="unconnected-(IC3-Pad62)">
+    <net code="116" name="unconnected-(IC3-Pad62)">
       <node ref="IC3" pin="62" pinfunction="PD13" pintype="passive+no_connect"/>
     </net>
-    <net code="116" name="unconnected-(IC3-Pad65)">
+    <net code="117" name="unconnected-(IC3-Pad65)">
       <node ref="IC3" pin="65" pinfunction="PD12" pintype="passive+no_connect"/>
     </net>
-    <net code="117" name="unconnected-(IC3-Pad66)">
+    <net code="118" name="unconnected-(IC3-Pad66)">
       <node ref="IC3" pin="66" pinfunction="PA2" pintype="passive+no_connect"/>
     </net>
-    <net code="118" name="unconnected-(IC3-Pad69)">
+    <net code="119" name="unconnected-(IC3-Pad69)">
       <node ref="IC3" pin="69" pinfunction="PD11" pintype="passive+no_connect"/>
     </net>
-    <net code="119" name="unconnected-(IC3-Pad71)">
+    <net code="120" name="unconnected-(IC3-Pad71)">
       <node ref="IC3" pin="71" pinfunction="PD10" pintype="passive+no_connect"/>
     </net>
-    <net code="120" name="unconnected-(IC3-Pad72)">
+    <net code="121" name="unconnected-(IC3-Pad72)">
       <node ref="IC3" pin="72" pinfunction="PA0" pintype="passive+no_connect"/>
     </net>
-    <net code="121" name="unconnected-(IC3-Pad75)">
+    <net code="122" name="unconnected-(IC3-Pad75)">
       <node ref="IC3" pin="75" pinfunction="PD15" pintype="passive+no_connect"/>
     </net>
-    <net code="122" name="unconnected-(IC3-Pad78)">
+    <net code="123" name="unconnected-(IC3-Pad78)">
       <node ref="IC3" pin="78" pinfunction="PD9" pintype="passive+no_connect"/>
     </net>
-    <net code="123" name="unconnected-(IC3-Pad79)">
+    <net code="124" name="unconnected-(IC3-Pad79)">
       <node ref="IC3" pin="79" pinfunction="PA28" pintype="passive+no_connect"/>
     </net>
-    <net code="124" name="unconnected-(IC3-Pad80)">
+    <net code="125" name="unconnected-(IC3-Pad80)">
       <node ref="IC3" pin="80" pinfunction="PD8" pintype="passive+no_connect"/>
     </net>
-    <net code="125" name="unconnected-(IC3-Pad82)">
+    <net code="126" name="unconnected-(IC3-Pad82)">
       <node ref="IC3" pin="82" pinfunction="PA30" pintype="passive+no_connect"/>
     </net>
-    <net code="126" name="unconnected-(IC3-Pad83)">
+    <net code="127" name="unconnected-(IC3-Pad83)">
       <node ref="IC3" pin="83" pinfunction="PA31" pintype="passive+no_connect"/>
     </net>
-    <net code="127" name="unconnected-(IC3-Pad84)">
+    <net code="128" name="unconnected-(IC3-Pad84)">
       <node ref="IC3" pin="84" pinfunction="PD7" pintype="passive+no_connect"/>
     </net>
-    <net code="128" name="unconnected-(IC3-Pad85)">
+    <net code="129" name="unconnected-(IC3-Pad85)">
       <node ref="IC3" pin="85" pinfunction="PD6" pintype="passive+no_connect"/>
     </net>
-    <net code="129" name="unconnected-(IC3-Pad87)">
+    <net code="130" name="unconnected-(IC3-Pad87)">
       <node ref="IC3" pin="87" pinfunction="PD5" pintype="passive+no_connect"/>
     </net>
-    <net code="130" name="unconnected-(IC3-Pad88)">
+    <net code="131" name="unconnected-(IC3-Pad88)">
       <node ref="IC3" pin="88" pinfunction="PD4" pintype="passive+no_connect"/>
     </net>
-    <net code="131" name="unconnected-(IC3-Pad89)">
+    <net code="132" name="unconnected-(IC3-Pad89)">
       <node ref="IC3" pin="89" pinfunction="PD3" pintype="passive+no_connect"/>
     </net>
-    <net code="132" name="unconnected-(IC3-Pad91)">
+    <net code="133" name="unconnected-(IC3-Pad91)">
       <node ref="IC3" pin="91" pinfunction="PD2" pintype="passive+no_connect"/>
     </net>
-    <net code="133" name="unconnected-(IC3-Pad92)">
+    <net code="134" name="unconnected-(IC3-Pad92)">
       <node ref="IC3" pin="92" pinfunction="PD1" pintype="passive+no_connect"/>
     </net>
-    <net code="134" name="unconnected-(IC3-Pad100)">
+    <net code="135" name="unconnected-(IC3-Pad100)">
       <node ref="IC3" pin="100" pinfunction="PB13" pintype="passive+no_connect"/>
     </net>
-    <net code="135" name="unconnected-(IC4-Pad4)">
+    <net code="136" name="unconnected-(IC4-Pad4)">
       <node ref="IC4" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="136" name="unconnected-(IC5-Pad4)">
+    <net code="137" name="unconnected-(IC5-Pad4)">
       <node ref="IC5" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="137" name="unconnected-(IC6-Pad4)">
+    <net code="138" name="unconnected-(IC6-Pad4)">
       <node ref="IC6" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="138" name="unconnected-(IC7-Pad4)">
+    <net code="139" name="unconnected-(IC7-Pad4)">
       <node ref="IC7" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="139" name="unconnected-(IC8-Pad1)">
+    <net code="140" name="unconnected-(IC8-Pad1)">
       <node ref="IC8" pin="1" pinfunction="C1-" pintype="passive+no_connect"/>
     </net>
-    <net code="140" name="unconnected-(IC8-Pad8)">
+    <net code="141" name="unconnected-(IC8-Pad8)">
       <node ref="IC8" pin="8" pinfunction="+VOUT" pintype="passive+no_connect"/>
     </net>
-    <net code="141" name="unconnected-(IC10-Pad3)">
-      <node ref="IC10" pin="3" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="142" name="unconnected-(IC10-Pad7)">
-      <node ref="IC10" pin="7" pinfunction="DNC" pintype="passive+no_connect"/>
+    <net code="142" name="unconnected-(IC10-Pad4)">
+      <node ref="IC10" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
     <net code="143" name="unconnected-(IC11-Pad4)">
       <node ref="IC11" pin="4" pinfunction="NC" pintype="no_connect"/>
