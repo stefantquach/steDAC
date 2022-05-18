@@ -833,10 +833,10 @@
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/db9f8450-3c6f-407c-97ed-c7200a0e472a/fffa999d-5d17-40b0-8839-18365b1c248a"
-      (reference "U2") (unit 1) (value "OPA1612-Q1") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
+      (reference "U2") (unit 1) (value "OPA1612") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
     )
     (path "/db9f8450-3c6f-407c-97ed-c7200a0e472a/3687106d-c877-440f-9d31-edb3a9b232c6"
-      (reference "U3") (unit 1) (value "OPA1612-Q1") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
+      (reference "U3") (unit 1) (value "OPA1612") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
     )
     (path "/db9f8450-3c6f-407c-97ed-c7200a0e472a/d4bacf11-02a3-493e-8b45-192928b1074c"
       (reference "U4") (unit 1) (value "OPA1622") (footprint "SamacSys_Parts:SON50P300X300X100-11N")

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\stefa\Documents\Projects\DAC\steDAC\steDAC.kicad_sch</source>
-    <date>5/13/2022 11:39:50 PM</date>
+    <source>C:\Users\stefa\Documents\Projects\DAC\steDAC\KiCAD\steDAC.kicad_sch</source>
+    <date>5/14/2022 11:30:17 PM</date>
     <tool>Eeschema (6.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -118,12 +118,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="DAC interface"/>
       <property name="Sheetfile" value="DAC_interface.kicad_sch"/>
       <sheetpath names="/DAC interface/" tstamps="/19d5df4d-7eb1-4c05-84fc-f97af242e346/"/>
@@ -163,12 +163,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="DAC interface"/>
       <property name="Sheetfile" value="DAC_interface.kicad_sch"/>
       <sheetpath names="/DAC interface/" tstamps="/19d5df4d-7eb1-4c05-84fc-f97af242e346/"/>
@@ -679,12 +679,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -694,12 +694,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -709,12 +709,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -724,12 +724,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -919,12 +919,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -934,12 +934,12 @@
       <value>0.22u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">581-0805YC224JAT2A</field>
-        <field name="Part Number">0805YC224JAT2A</field>
+        <field name="Mouser Part Number">187-CL21B224KAFNNNG</field>
+        <field name="Part Number">CL21B224KAFNNNG</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="0805YC224JAT2A"/>
-      <property name="Mouser Part Number" value="581-0805YC224JAT2A"/>
+      <property name="Part Number" value="CL21B224KAFNNNG"/>
+      <property name="Mouser Part Number" value="187-CL21B224KAFNNNG"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -964,12 +964,12 @@
       <value>5k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">71-PNM0805E5001BST5</field>
-        <field name="Part Number">PNM0805E5001BST5</field>
+        <field name="Mouser Part Number">652-CRT0805BY5001EAS</field>
+        <field name="Part Number">CRT0805-BY-5001EAS</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="Part Number" value="PNM0805E5001BST5"/>
-      <property name="Mouser Part Number" value="71-PNM0805E5001BST5"/>
+      <property name="Part Number" value="CRT0805-BY-5001EAS"/>
+      <property name="Mouser Part Number" value="652-CRT0805BY5001EAS"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -994,12 +994,12 @@
       <value>5k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">71-PNM0805E5001BST5</field>
-        <field name="Part Number">PNM0805E5001BST5</field>
+        <field name="Mouser Part Number">652-CRT0805BY5001EAS</field>
+        <field name="Part Number">CRT0805-BY-5001EAS</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="Part Number" value="PNM0805E5001BST5"/>
-      <property name="Mouser Part Number" value="71-PNM0805E5001BST5"/>
+      <property name="Part Number" value="CRT0805-BY-5001EAS"/>
+      <property name="Mouser Part Number" value="652-CRT0805BY5001EAS"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -1186,30 +1186,30 @@
       <tstamps>06c58071-e608-40ee-9ba0-7e076bb6b3f9</tstamps>
     </comp>
     <comp ref="U2">
-      <value>OPA1612-Q1</value>
+      <value>OPA1612</value>
       <footprint>SamacSys_Parts:SOIC127P600X175-8N</footprint>
       <fields>
-        <field name="Mouser Part Number">595-OPA1612AQDRQ1</field>
-        <field name="Part Number">OPA1612AQDRQ1</field>
+        <field name="Mouser Part Number">595-OPA1612AID</field>
+        <field name="Part Number">OPA1612AID</field>
       </fields>
       <libsource lib="steDAC" part="OPA1612-Q1" description=""/>
-      <property name="Part Number" value="OPA1612AQDRQ1"/>
-      <property name="Mouser Part Number" value="595-OPA1612AQDRQ1"/>
+      <property name="Part Number" value="OPA1612AID"/>
+      <property name="Mouser Part Number" value="595-OPA1612AID"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
       <tstamps>fffa999d-5d17-40b0-8839-18365b1c248a</tstamps>
     </comp>
     <comp ref="U3">
-      <value>OPA1612-Q1</value>
+      <value>OPA1612</value>
       <footprint>SamacSys_Parts:SOIC127P600X175-8N</footprint>
       <fields>
-        <field name="Mouser Part Number">595-OPA1612AQDRQ1</field>
-        <field name="Part Number">OPA1612AQDRQ1</field>
+        <field name="Mouser Part Number">595-OPA1612AID</field>
+        <field name="Part Number">OPA1612AID</field>
       </fields>
       <libsource lib="steDAC" part="OPA1612-Q1" description=""/>
-      <property name="Part Number" value="OPA1612AQDRQ1"/>
-      <property name="Mouser Part Number" value="595-OPA1612AQDRQ1"/>
+      <property name="Part Number" value="OPA1612AID"/>
+      <property name="Mouser Part Number" value="595-OPA1612AID"/>
       <property name="Sheetname" value="Output Stage"/>
       <property name="Sheetfile" value="output_stage.kicad_sch"/>
       <sheetpath names="/Output Stage/" tstamps="/db9f8450-3c6f-407c-97ed-c7200a0e472a/"/>
@@ -1657,6 +1657,21 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
       <tstamps>f7240cc5-8715-428c-8cf7-9b700d94fe66</tstamps>
+    </comp>
+    <comp ref="C66">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
+        <field name="Part Number">C0805C104K8RACAUTO</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="C0805C104K8RACAUTO"/>
+      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Sheetname" value="Power Supplies"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
+      <tstamps>193351c7-03e1-4b51-b2fb-3588bccb1b9b</tstamps>
     </comp>
     <comp ref="C68">
       <value>10n</value>
@@ -3132,13 +3147,13 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
     </library>
     <library logical="SamacSys_Parts">
-      <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC/Samac_libraries/SamacSys_Parts.lib</uri>
+      <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC\KiCAD/Samac_libraries/SamacSys_Parts.lib</uri>
     </library>
     <library logical="Type-C">
-      <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC/libraries/Type-C.pretty/Type-C.lib</uri>
+      <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC\KiCAD/libraries/Type-C.pretty/Type-C.lib</uri>
     </library>
     <library logical="steDAC">
-      <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC/libraries/steDAC.kicad_sym</uri>
+      <uri>C:\Users\stefa\Documents\Projects\DAC\steDAC\KiCAD/libraries/steDAC.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -3297,6 +3312,7 @@
       <node ref="C42" pin="2" pintype="passive"/>
       <node ref="C43" pin="1" pintype="passive"/>
       <node ref="C62" pin="1" pintype="passive"/>
+      <node ref="C66" pin="2" pintype="passive"/>
       <node ref="FB3" pin="2" pintype="passive"/>
       <node ref="IC5" pin="1" pinfunction="VIN" pintype="passive"/>
       <node ref="IC6" pin="1" pinfunction="VIN" pintype="passive"/>
@@ -3394,6 +3410,7 @@
       <node ref="C62" pin="2" pintype="passive"/>
       <node ref="C63" pin="2" pintype="passive"/>
       <node ref="C65" pin="1" pintype="passive"/>
+      <node ref="C66" pin="1" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C72" pin="2" pintype="passive"/>
       <node ref="C73" pin="2" pintype="passive"/>
