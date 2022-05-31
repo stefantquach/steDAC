@@ -54,7 +54,7 @@ out.writerow(['Date:', net.getDate()])
 out.writerow(['Tool:', net.getTool()])
 out.writerow( ['Generator:', sys.argv[0]] )
 out.writerow(['Component Count:', len(net.components)])
-out.writerow(['Qnty', 'Product', 'Mouser Part Number', 'Description', 'Schematic', 'Note'])
+out.writerow(['Qnty', 'Product', 'Mouser Part Number', 'Description', 'Value', 'Schematic', 'Note'])
 
 
 # Get all of the components in groups of matching parts + values
@@ -80,7 +80,8 @@ for group in grouped:
         len(group),
         fromNetlistText( part_number ),
         c.getField("Mouser Part Number"),
-        "",
+        c.getDescription(),
+        c.getValue(),
         refs,
         ""])
 
