@@ -82,8 +82,8 @@
   )
 
   (symbol_instances
-    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/89f62c71-7c9c-4be5-885d-8bceba61d7e4"
-      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/d83f613e-da74-4417-8b12-a11d597590fd"
+      (reference "#FLG03") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/f303b0c2-a05f-4356-9b92-85d33d9dd955/a4649482-ca20-486a-87ec-371a04422ef2"
       (reference "#FLG04") (unit 1) (value "PWR_FLAG") (footprint "")
@@ -120,6 +120,30 @@
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/16602fba-9ae9-40f7-adc5-7a156cee12a9"
       (reference "#PWR09") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/bc6c704f-3b0c-4ee3-be15-f5ed69a3b01e"
+      (reference "#PWR010") (unit 1) (value "+1V2") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/18ae65c1-cfa8-4b50-91b5-e1b5bf803355"
+      (reference "#PWR011") (unit 1) (value "+1V2") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/4937cafe-87cf-4b11-a524-a04ccf6e7121"
+      (reference "#PWR012") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/23d4af3e-9b0c-44ad-b8a2-c369a8f583af"
+      (reference "#PWR013") (unit 1) (value "+1V2") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/d3cb3d90-37de-4452-90d3-8f0abaecf879"
+      (reference "#PWR014") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/f6ac014f-a7db-43f9-8aba-b20a75f7d855"
+      (reference "#PWR015") (unit 1) (value "+1V2") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/b55c7f42-5ea3-4921-9ddc-b701e39e302e"
+      (reference "#PWR016") (unit 1) (value "+1V2") (footprint "")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/19c27285-96eb-486f-96ab-6a94a9cd0199"
+      (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
     (path "/19d5df4d-7eb1-4c05-84fc-f97af242e346/c1c29ec0-98d3-4870-9721-d5068f496c43"
       (reference "#PWR0101") (unit 1) (value "GNDREF") (footprint "")
@@ -174,9 +198,6 @@
     )
     (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/d1267fbb-5cf6-4033-8ba0-64fb8eca701c"
       (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/241d9d52-ff4e-4952-ac4c-9f3efebfb268"
-      (reference "#PWR0119") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/83a6a28b-7be9-4636-8453-5e5d664cf482"
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
@@ -589,6 +610,9 @@
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/193351c7-03e1-4b51-b2fb-3588bccb1b9b"
       (reference "C66") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/55d4220c-1373-4d6c-a20e-70673ae16d9a"
+      (reference "C67") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/661b104a-58a7-4d6c-bdea-b5f783b54160"
       (reference "C68") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -627,6 +651,12 @@
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/852d82ae-c957-42c0-9d29-d20e7af519ca"
       (reference "C80") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/6c4f2fd5-7c33-4033-9963-23d50ce5e23f"
+      (reference "C81") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/804bb4b0-374d-4f8c-8be4-ea059c66053d"
+      (reference "C82") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/8185d326-6e75-4c66-b1f9-52e8d84d81f2"
       (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -670,29 +700,29 @@
     (path "/b39b8c19-ac96-4230-ae13-d0827749d2e6/97e44e06-5ffa-4d4a-b52e-b374c235ab29"
       (reference "IC3") (unit 1) (value "ATSAMS70N20A-AN") (footprint "SamacSys_Parts:QFP50P1600X1600X160-100N")
     )
-    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/1c66f199-30d6-4349-909a-2712d0473cdb"
-      (reference "IC4") (unit 1) (value "ADP150AUJZ-3.3-R7") (footprint "SamacSys_Parts:SOT95P280X100-5N")
+    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/885db526-495e-4e78-bcef-87d784f38c1d"
+      (reference "IC4") (unit 1) (value "NCP161ASN330T1G") (footprint "SOT95P280X145-5N")
     )
-    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/924e2b2d-399e-44f9-b7bc-9845f642c46e"
-      (reference "IC5") (unit 1) (value "ADP150AUJZ-3.3-R7") (footprint "SamacSys_Parts:SOT95P280X100-5N")
+    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/aa55334b-c7ec-4219-9b32-a3982d04405c"
+      (reference "IC5") (unit 1) (value "NCP161ASN330T1G") (footprint "SOT95P280X145-5N")
     )
-    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/cfb3ac5f-057a-430b-a16e-004381b9a22d"
-      (reference "IC6") (unit 1) (value "ADP150AUJZ-3.3-R7") (footprint "SamacSys_Parts:SOT95P280X100-5N")
+    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/3da0d982-a154-4538-b75f-207b8acc3786"
+      (reference "IC6") (unit 1) (value "NCP161ASN330T1G") (footprint "SOT95P280X145-5N")
     )
-    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/c812a362-4f87-4aa9-8f75-af9c5b275b31"
-      (reference "IC7") (unit 1) (value "ADP150AUJZ-3.3-R7") (footprint "SamacSys_Parts:SOT95P280X100-5N")
+    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/e39748c6-7728-45c9-8228-7cd0146da664"
+      (reference "IC7") (unit 1) (value "NCP161ASN330T1G") (footprint "SOT95P280X145-5N")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/08ee2c57-df63-4534-8043-3af327724494"
       (reference "IC8") (unit 1) (value "LT1026CS8#PBF") (footprint "SamacSys_Parts:SOIC127P599X175-8N")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/431f62b8-6547-4932-ad8d-7f82f9210d53"
-      (reference "IC9") (unit 1) (value "ADP7118ARDZ") (footprint "SamacSys_Parts:SOIC127P600X175-9N")
+      (reference "IC9") (unit 1) (value "ADP7118ARDZ") (footprint "SOIC127P600X175-9N")
     )
     (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/fd06f58a-7091-4d1d-bf60-5221b6e153bf"
       (reference "IC10") (unit 1) (value "ADP7182ACPZN-R7") (footprint "SON65P200X200X65-7N-D")
     )
-    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/eaf50262-0a7d-4841-a953-73f203c5e45a"
-      (reference "IC11") (unit 1) (value "ADP150AUJZ-3.3-R7") (footprint "SamacSys_Parts:SOT95P280X100-5N")
+    (path "/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/a7b233dd-dfe5-4d54-9564-a14a5744eff6"
+      (reference "IC11") (unit 1) (value "NCP161ASN330T1G") (footprint "SOT95P280X145-5N")
     )
     (path "/f303b0c2-a05f-4356-9b92-85d33d9dd955/56646758-1eb8-4592-b94f-19716da72180"
       (reference "J2") (unit 1) (value "USB4105-GF-A") (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering")

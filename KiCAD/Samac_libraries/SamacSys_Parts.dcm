@@ -150,4 +150,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/ADP7182ACPZN-R7.pdf
 $ENDCMP
 #
+$CMP NCP161ASN330T1G
+D ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5
+K
+F https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf
+$ENDCMP
+#
 #End Doc Library
