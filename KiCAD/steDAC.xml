@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\stefa\Documents\Projects\DAC\steDAC\KiCAD\steDAC.kicad_sch</source>
-    <date>5/30/2022 4:00:42 PM</date>
+    <date>7/2/2022 9:44:55 PM</date>
     <tool>Eeschema (6.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -133,12 +133,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="DAC interface"/>
       <property name="Sheetfile" value="DAC_interface.kicad_sch"/>
       <sheetpath names="/DAC interface/" tstamps="/19d5df4d-7eb1-4c05-84fc-f97af242e346/"/>
@@ -444,6 +444,21 @@
       <sheetpath names="/MCU interface/" tstamps="/b39b8c19-ac96-4230-ae13-d0827749d2e6/"/>
       <tstamps>241371bc-b4d6-4a13-9cfa-ae67d7de870e</tstamps>
     </comp>
+    <comp ref="C67">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser Part Number">187-CL21B104KBCNFNC</field>
+        <field name="Part Number">CL21B104KBCNFNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="CL21B104KBCNFNC"/>
+      <property name="Mouser Part Number" value="187-CL21B104KBCNFNC"/>
+      <property name="Sheetname" value="MCU interface"/>
+      <property name="Sheetfile" value="MCU_sch.kicad_sch"/>
+      <sheetpath names="/MCU interface/" tstamps="/b39b8c19-ac96-4230-ae13-d0827749d2e6/"/>
+      <tstamps>55d4220c-1373-4d6c-a20e-70673ae16d9a</tstamps>
+    </comp>
     <comp ref="C79">
       <value>10u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
@@ -458,6 +473,36 @@
       <property name="Sheetfile" value="MCU_sch.kicad_sch"/>
       <sheetpath names="/MCU interface/" tstamps="/b39b8c19-ac96-4230-ae13-d0827749d2e6/"/>
       <tstamps>755e6961-3725-4801-9d43-48e09aad1563</tstamps>
+    </comp>
+    <comp ref="C81">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser Part Number">187-CL21B104KBCNFNC</field>
+        <field name="Part Number">CL21B104KBCNFNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="CL21B104KBCNFNC"/>
+      <property name="Mouser Part Number" value="187-CL21B104KBCNFNC"/>
+      <property name="Sheetname" value="MCU interface"/>
+      <property name="Sheetfile" value="MCU_sch.kicad_sch"/>
+      <sheetpath names="/MCU interface/" tstamps="/b39b8c19-ac96-4230-ae13-d0827749d2e6/"/>
+      <tstamps>6c4f2fd5-7c33-4033-9963-23d50ce5e23f</tstamps>
+    </comp>
+    <comp ref="C82">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser Part Number">187-CL21B104KBCNFNC</field>
+        <field name="Part Number">CL21B104KBCNFNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="CL21B104KBCNFNC"/>
+      <property name="Mouser Part Number" value="187-CL21B104KBCNFNC"/>
+      <property name="Sheetname" value="MCU interface"/>
+      <property name="Sheetfile" value="MCU_sch.kicad_sch"/>
+      <sheetpath names="/MCU interface/" tstamps="/b39b8c19-ac96-4230-ae13-d0827749d2e6/"/>
+      <tstamps>804bb4b0-374d-4f8c-8be4-ea059c66053d</tstamps>
     </comp>
     <comp ref="D2">
       <value>LED</value>
@@ -1242,12 +1287,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1257,12 +1302,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1272,12 +1317,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1287,12 +1332,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1422,12 +1467,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1437,12 +1482,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1452,12 +1497,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1467,12 +1512,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1662,12 +1707,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1737,12 +1782,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1767,12 +1812,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mouser Part Number">80-C0805C104K8RAUTO</field>
-        <field name="Part Number">C0805C104K8RACAUTO</field>
+        <field name="Mouser Part Number">603-CC805KKX5R7BB475</field>
+        <field name="Part Number">CC0805KKX5R7BB475</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part Number" value="C0805C104K8RACAUTO"/>
-      <property name="Mouser Part Number" value="80-C0805C104K8RAUTO"/>
+      <property name="Part Number" value="CC0805KKX5R7BB475"/>
+      <property name="Mouser Part Number" value="603-CC805KKX5R7BB475"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
@@ -1944,120 +1989,116 @@
       <tstamps>4a8dfba4-ecff-4c3e-b819-51e98de3cfe7</tstamps>
     </comp>
     <comp ref="IC4">
-      <value>ADP150AUJZ-3.3-R7</value>
-      <footprint>SamacSys_Parts:SOT95P280X100-5N</footprint>
-      <datasheet>https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505</datasheet>
+      <value>NCP161ASN330T1G</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf</datasheet>
       <fields>
-        <field name="Arrow Part Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac</field>
-        <field name="Description">Ultralow Noise, 150 mA CMOS Linear Regulator</field>
-        <field name="Height">1</field>
-        <field name="Manufacturer_Name">Analog Devices</field>
-        <field name="Manufacturer_Part_Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Mouser Part Number">584-ADP150AUJZ-3.3R7</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA</field>
+        <field name="Arrow Part Number">NCP161ASN330T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac</field>
+        <field name="Description">ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP161ASN330T1G</field>
+        <field name="Mouser Part Number">863-NCP161ASN330T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="ADP150AUJZ-3.3-R7" description="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Description" value="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Height" value="1"/>
-      <property name="Manufacturer_Name" value="Analog Devices"/>
-      <property name="Manufacturer_Part_Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Mouser Part Number" value="584-ADP150AUJZ-3.3R7"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"/>
-      <property name="Arrow Part Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac"/>
-      <property name="Part Number" value=""/>
+      <libsource lib="SamacSys_Parts" part="NCP161ASN330T1G" description="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Description" value="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP161ASN330T1G"/>
+      <property name="Mouser Part Number" value="863-NCP161ASN330T1G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D"/>
+      <property name="Arrow Part Number" value="NCP161ASN330T1G"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>1c66f199-30d6-4349-909a-2712d0473cdb</tstamps>
+      <tstamps>885db526-495e-4e78-bcef-87d784f38c1d</tstamps>
     </comp>
     <comp ref="IC5">
-      <value>ADP150AUJZ-3.3-R7</value>
-      <footprint>SamacSys_Parts:SOT95P280X100-5N</footprint>
-      <datasheet>https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505</datasheet>
+      <value>NCP161ASN330T1G</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf</datasheet>
       <fields>
-        <field name="Arrow Part Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac</field>
-        <field name="Description">Ultralow Noise, 150 mA CMOS Linear Regulator</field>
-        <field name="Height">1</field>
-        <field name="Manufacturer_Name">Analog Devices</field>
-        <field name="Manufacturer_Part_Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Mouser Part Number">584-ADP150AUJZ-3.3R7</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA</field>
+        <field name="Arrow Part Number">NCP161ASN330T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac</field>
+        <field name="Description">ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP161ASN330T1G</field>
+        <field name="Mouser Part Number">863-NCP161ASN330T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="ADP150AUJZ-3.3-R7" description="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Description" value="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Height" value="1"/>
-      <property name="Manufacturer_Name" value="Analog Devices"/>
-      <property name="Manufacturer_Part_Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Mouser Part Number" value="584-ADP150AUJZ-3.3R7"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"/>
-      <property name="Arrow Part Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac"/>
-      <property name="Part Number" value=""/>
+      <libsource lib="SamacSys_Parts" part="NCP161ASN330T1G" description="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Description" value="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP161ASN330T1G"/>
+      <property name="Mouser Part Number" value="863-NCP161ASN330T1G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D"/>
+      <property name="Arrow Part Number" value="NCP161ASN330T1G"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>924e2b2d-399e-44f9-b7bc-9845f642c46e</tstamps>
+      <tstamps>aa55334b-c7ec-4219-9b32-a3982d04405c</tstamps>
     </comp>
     <comp ref="IC6">
-      <value>ADP150AUJZ-3.3-R7</value>
-      <footprint>SamacSys_Parts:SOT95P280X100-5N</footprint>
-      <datasheet>https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505</datasheet>
+      <value>NCP161ASN330T1G</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf</datasheet>
       <fields>
-        <field name="Arrow Part Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac</field>
-        <field name="Description">Ultralow Noise, 150 mA CMOS Linear Regulator</field>
-        <field name="Height">1</field>
-        <field name="Manufacturer_Name">Analog Devices</field>
-        <field name="Manufacturer_Part_Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Mouser Part Number">584-ADP150AUJZ-3.3R7</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA</field>
+        <field name="Arrow Part Number">NCP161ASN330T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac</field>
+        <field name="Description">ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP161ASN330T1G</field>
+        <field name="Mouser Part Number">863-NCP161ASN330T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="ADP150AUJZ-3.3-R7" description="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Description" value="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Height" value="1"/>
-      <property name="Manufacturer_Name" value="Analog Devices"/>
-      <property name="Manufacturer_Part_Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Mouser Part Number" value="584-ADP150AUJZ-3.3R7"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"/>
-      <property name="Arrow Part Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac"/>
-      <property name="Part Number" value=""/>
+      <libsource lib="SamacSys_Parts" part="NCP161ASN330T1G" description="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Description" value="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP161ASN330T1G"/>
+      <property name="Mouser Part Number" value="863-NCP161ASN330T1G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D"/>
+      <property name="Arrow Part Number" value="NCP161ASN330T1G"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>cfb3ac5f-057a-430b-a16e-004381b9a22d</tstamps>
+      <tstamps>3da0d982-a154-4538-b75f-207b8acc3786</tstamps>
     </comp>
     <comp ref="IC7">
-      <value>ADP150AUJZ-3.3-R7</value>
-      <footprint>SamacSys_Parts:SOT95P280X100-5N</footprint>
-      <datasheet>https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505</datasheet>
+      <value>NCP161ASN330T1G</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf</datasheet>
       <fields>
-        <field name="Arrow Part Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac</field>
-        <field name="Description">Ultralow Noise, 150 mA CMOS Linear Regulator</field>
-        <field name="Height">1</field>
-        <field name="Manufacturer_Name">Analog Devices</field>
-        <field name="Manufacturer_Part_Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Mouser Part Number">584-ADP150AUJZ-3.3R7</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA</field>
+        <field name="Arrow Part Number">NCP161ASN330T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac</field>
+        <field name="Description">ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP161ASN330T1G</field>
+        <field name="Mouser Part Number">863-NCP161ASN330T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="ADP150AUJZ-3.3-R7" description="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Description" value="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Height" value="1"/>
-      <property name="Manufacturer_Name" value="Analog Devices"/>
-      <property name="Manufacturer_Part_Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Mouser Part Number" value="584-ADP150AUJZ-3.3R7"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"/>
-      <property name="Arrow Part Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac"/>
-      <property name="Part Number" value=""/>
+      <libsource lib="SamacSys_Parts" part="NCP161ASN330T1G" description="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Description" value="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP161ASN330T1G"/>
+      <property name="Mouser Part Number" value="863-NCP161ASN330T1G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D"/>
+      <property name="Arrow Part Number" value="NCP161ASN330T1G"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>c812a362-4f87-4aa9-8f75-af9c5b275b31</tstamps>
+      <tstamps>e39748c6-7728-45c9-8228-7cd0146da664</tstamps>
     </comp>
     <comp ref="IC8">
       <value>LT1026CS8#PBF</value>
@@ -2089,7 +2130,7 @@
     </comp>
     <comp ref="IC9">
       <value>ADP7118ARDZ</value>
-      <footprint>SamacSys_Parts:SOIC127P600X175-9N</footprint>
+      <footprint>SOIC127P600X175-9N</footprint>
       <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/217300.pdf</datasheet>
       <fields>
         <field name="Arrow Part Number">ADP7118ARDZ</field>
@@ -2144,33 +2185,32 @@
       <tstamps>fd06f58a-7091-4d1d-bf60-5221b6e153bf</tstamps>
     </comp>
     <comp ref="IC11">
-      <value>ADP150AUJZ-3.3-R7</value>
-      <footprint>SamacSys_Parts:SOT95P280X100-5N</footprint>
-      <datasheet>https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505</datasheet>
+      <value>NCP161ASN330T1G</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf</datasheet>
       <fields>
-        <field name="Arrow Part Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac</field>
-        <field name="Description">Ultralow Noise, 150 mA CMOS Linear Regulator</field>
-        <field name="Height">1</field>
-        <field name="Manufacturer_Name">Analog Devices</field>
-        <field name="Manufacturer_Part_Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Mouser Part Number">584-ADP150AUJZ-3.3R7</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA</field>
+        <field name="Arrow Part Number">NCP161ASN330T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac</field>
+        <field name="Description">ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP161ASN330T1G</field>
+        <field name="Mouser Part Number">863-NCP161ASN330T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="ADP150AUJZ-3.3-R7" description="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Description" value="Ultralow Noise, 150 mA CMOS Linear Regulator"/>
-      <property name="Height" value="1"/>
-      <property name="Manufacturer_Name" value="Analog Devices"/>
-      <property name="Manufacturer_Part_Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Mouser Part Number" value="584-ADP150AUJZ-3.3R7"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"/>
-      <property name="Arrow Part Number" value="ADP150AUJZ-3.3-R7"/>
-      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac"/>
-      <property name="Part Number" value=""/>
+      <libsource lib="SamacSys_Parts" part="NCP161ASN330T1G" description="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Description" value="ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP161ASN330T1G"/>
+      <property name="Mouser Part Number" value="863-NCP161ASN330T1G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D"/>
+      <property name="Arrow Part Number" value="NCP161ASN330T1G"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac"/>
       <property name="Sheetname" value="Power Supplies"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power Supplies/" tstamps="/8362a339-0f6a-4a3a-aeb2-909536cb7eb9/"/>
-      <tstamps>eaf50262-0a7d-4841-a953-73f203c5e45a</tstamps>
+      <tstamps>a7b233dd-dfe5-4d54-9564-a14a5744eff6</tstamps>
     </comp>
     <comp ref="R11">
       <value>1k</value>
@@ -2515,6 +2555,8 @@
         <field name="Value">STX-3120-5B-284C</field>
         <field name="Footprint">SamacSys_Parts:STX31205B284C</field>
         <field name="Datasheet">~</field>
+        <field name="Part Number">STX-3120-5B-284C</field>
+        <field name="Mouser Part Number">806-STX-31205B284C</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -2778,31 +2820,6 @@
         <pin num="6" name="I/O_1_2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="SamacSys_Parts" part="ADP150AUJZ-3.3-R7">
-      <description>Ultralow Noise, 150 mA CMOS Linear Regulator</description>
-      <docs>https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505</docs>
-      <fields>
-        <field name="Reference">IC</field>
-        <field name="Value">ADP150AUJZ-3.3-R7</field>
-        <field name="Footprint">SOT95P280X100-5N</field>
-        <field name="Datasheet">https://www.digikey.com/product-detail/en/analog-devices-inc/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7CT-ND/2207505</field>
-        <field name="Description">Ultralow Noise, 150 mA CMOS Linear Regulator</field>
-        <field name="Height">1</field>
-        <field name="Manufacturer_Name">Analog Devices</field>
-        <field name="Manufacturer_Part_Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Mouser Part Number">N/A</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA</field>
-        <field name="Arrow Part Number">ADP150AUJZ-3.3-R7</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp150aujz-3.3-r7/analog-devices?region=nac</field>
-      </fields>
-      <pins>
-        <pin num="1" name="VIN" type="passive"/>
-        <pin num="2" name="GND" type="passive"/>
-        <pin num="3" name="EN" type="passive"/>
-        <pin num="4" name="NC" type="no_connect"/>
-        <pin num="5" name="VOUT" type="power_out"/>
-      </pins>
-    </libpart>
     <libpart lib="SamacSys_Parts" part="ADP7118ARDZ">
       <description>LDO Linear Regulator 0.2A SOICN8 Analog Devices ADP7118ARDZ, LDO Voltage Regulator, Adjustable 200mA, 1.2  5 V +/-0.8%, 8-Pin SOIC</description>
       <docs>https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/217300.pdf</docs>
@@ -2821,14 +2838,14 @@
         <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp7118ardz/analog-devices?region=nac</field>
       </fields>
       <pins>
-        <pin num="1" name="VOUT_1" type="power_out"/>
-        <pin num="2" name="VOUT_2" type="power_out"/>
+        <pin num="1" name="VOUT_1" type="output"/>
+        <pin num="2" name="VOUT_2" type="output"/>
         <pin num="3" name="SENSE/ADJ" type="passive"/>
         <pin num="4" name="GND_1" type="power_in"/>
         <pin num="5" name="EN" type="input"/>
         <pin num="6" name="SS" type="input"/>
-        <pin num="7" name="VIN_1" type="passive"/>
-        <pin num="8" name="VIN_2" type="passive"/>
+        <pin num="7" name="VIN_1" type="power_in"/>
+        <pin num="8" name="VIN_2" type="power_in"/>
         <pin num="9" name="GND_2" type="power_in"/>
       </pins>
     </libpart>
@@ -3054,6 +3071,31 @@
         <pin num="8" name="+VOUT" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="SamacSys_Parts" part="NCP161ASN330T1G">
+      <description>ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5</description>
+      <docs>https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf</docs>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">NCP161ASN330T1G</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf</field>
+        <field name="Description">ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP161ASN330T1G</field>
+        <field name="Mouser Part Number">863-NCP161ASN330T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP161ASN330T1G?qs=vLWxofP3U2ze5zA%252BHmAd3w%3D%3D</field>
+        <field name="Arrow Part Number">NCP161ASN330T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ncp161asn330t1g/on-semiconductor?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="OUT" type="output"/>
+      </pins>
+    </libpart>
     <libpart lib="SamacSys_Parts" part="SiT8209AI-21-33S-100.000000X">
       <description>Standard Clock Oscillators 100MHz 3.3V 20ppm -40C +85C</description>
       <docs>https://www.sitime.com/datasheet/SiT8209</docs>
@@ -3157,19 +3199,29 @@
     </library>
   </libraries>
   <nets>
-    <net code="1" name="+3.3VDAC">
+    <net code="1" name="+1V2">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C67" pin="1" pintype="passive"/>
+      <node ref="C81" pin="1" pintype="passive"/>
+      <node ref="C82" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="18" pinfunction="VDDCORE_1" pintype="passive"/>
+      <node ref="IC3" pin="22" pinfunction="VDDCORE_2" pintype="passive"/>
+      <node ref="IC3" pin="39" pinfunction="VDDCORE_3" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="VDDOUT" pintype="passive"/>
+      <node ref="IC3" pin="76" pinfunction="VDDCORE_4" pintype="passive"/>
+    </net>
+    <net code="2" name="+3.3VDAC">
       <node ref="C45" pin="1" pintype="passive"/>
       <node ref="C51" pin="1" pintype="passive"/>
       <node ref="C55" pin="1" pintype="passive"/>
       <node ref="IC2" pin="12" pinfunction="VCCA_1" pintype="passive"/>
       <node ref="IC2" pin="27" pinfunction="VCCA_2" pintype="passive"/>
-      <node ref="IC5" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="IC6" pin="5" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="2" name="+3V3">
+    <net code="3" name="+3V3">
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="C12" pin="2" pintype="passive"/>
-      <node ref="C13" pin="1" pintype="passive"/>
       <node ref="C14" pin="1" pintype="passive"/>
       <node ref="C15" pin="1" pintype="passive"/>
       <node ref="C44" pin="1" pintype="passive"/>
@@ -3181,21 +3233,17 @@
       <node ref="C79" pin="2" pintype="passive"/>
       <node ref="C9" pin="1" pintype="passive"/>
       <node ref="IC2" pin="13" pinfunction="DVCC" pintype="passive"/>
-      <node ref="IC3" pin="18" pinfunction="VDDCORE_1" pintype="passive"/>
       <node ref="IC3" pin="19" pinfunction="VDDIO_1" pintype="passive"/>
-      <node ref="IC3" pin="22" pinfunction="VDDCORE_2" pintype="passive"/>
       <node ref="IC3" pin="28" pinfunction="VDDIO_2" pintype="passive"/>
-      <node ref="IC3" pin="39" pinfunction="VDDCORE_3" pintype="passive"/>
       <node ref="IC3" pin="5" pinfunction="VDDIN" pintype="passive"/>
       <node ref="IC3" pin="68" pinfunction="VDDIO_3" pintype="passive"/>
-      <node ref="IC3" pin="76" pinfunction="VDDCORE_4" pintype="passive"/>
       <node ref="IC3" pin="81" pinfunction="VDDIO_4" pintype="passive"/>
       <node ref="IC3" pin="86" pinfunction="VDDPLL" pintype="passive"/>
       <node ref="IC3" pin="9" pinfunction="VREFP" pintype="passive"/>
       <node ref="IC3" pin="90" pinfunction="VDDPLLUSB" pintype="passive"/>
       <node ref="IC3" pin="93" pinfunction="VDDUTMII" pintype="passive"/>
       <node ref="IC3" pin="96" pinfunction="VDDUTMIC" pintype="passive"/>
-      <node ref="IC4" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="IC4" pin="5" pinfunction="OUT" pintype="output"/>
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
@@ -3211,12 +3259,12 @@
       <node ref="R9" pin="1" pintype="passive"/>
       <node ref="Y2" pin="4" pinfunction="VDD" pintype="passive"/>
     </net>
-    <net code="3" name="+5V">
+    <net code="4" name="+5V">
       <node ref="FB3" pin="1" pintype="passive"/>
       <node ref="FB4" pin="1" pintype="passive"/>
       <node ref="JP3" pin="2" pinfunction="C" pintype="input"/>
     </net>
-    <net code="4" name="+VDAC">
+    <net code="5" name="+VDAC">
       <node ref="C16" pin="2" pintype="passive"/>
       <node ref="C18" pin="2" pintype="passive"/>
       <node ref="C20" pin="2" pintype="passive"/>
@@ -3226,15 +3274,15 @@
       <node ref="C68" pin="2" pintype="passive"/>
       <node ref="C69" pin="1" pintype="passive"/>
       <node ref="C70" pin="2" pintype="passive"/>
-      <node ref="IC9" pin="1" pinfunction="VOUT_1" pintype="power_out"/>
-      <node ref="IC9" pin="2" pinfunction="VOUT_2" pintype="power_out"/>
+      <node ref="IC9" pin="1" pinfunction="VOUT_1" pintype="output"/>
+      <node ref="IC9" pin="2" pinfunction="VOUT_2" pintype="output"/>
       <node ref="R31" pin="1" pintype="passive"/>
       <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
       <node ref="U3" pin="8" pinfunction="V+" pintype="power_in"/>
       <node ref="U4" pin="2" pinfunction="V+" pintype="power_in"/>
       <node ref="U4" pin="8" pinfunction="EN" pintype="input"/>
     </net>
-    <net code="5" name="-VDAC">
+    <net code="6" name="-VDAC">
       <node ref="C17" pin="2" pintype="passive"/>
       <node ref="C19" pin="2" pintype="passive"/>
       <node ref="C21" pin="2" pintype="passive"/>
@@ -3249,63 +3297,63 @@
       <node ref="U3" pin="4" pinfunction="V-" pintype="power_in"/>
       <node ref="U4" pin="4" pinfunction="V-" pintype="power_in"/>
     </net>
-    <net code="6" name="/Output Stage/L+">
+    <net code="7" name="/Output Stage/L+">
       <node ref="C29" pin="2" pintype="passive"/>
       <node ref="R19" pin="2" pintype="passive"/>
       <node ref="R25" pin="1" pintype="passive"/>
       <node ref="U3" pin="7" pinfunction="OUTB" pintype="output"/>
     </net>
-    <net code="7" name="/Output Stage/L-">
+    <net code="8" name="/Output Stage/L-">
       <node ref="C28" pin="1" pintype="passive"/>
       <node ref="R18" pin="1" pintype="passive"/>
       <node ref="R21" pin="2" pintype="passive"/>
       <node ref="U3" pin="1" pinfunction="OUTA" pintype="output"/>
     </net>
-    <net code="8" name="/Output Stage/R+">
+    <net code="9" name="/Output Stage/R+">
       <node ref="C27" pin="2" pintype="passive"/>
       <node ref="R17" pin="2" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="U2" pin="7" pinfunction="OUTB" pintype="output"/>
     </net>
-    <net code="9" name="/Output Stage/R-">
+    <net code="10" name="/Output Stage/R-">
       <node ref="C26" pin="1" pintype="passive"/>
       <node ref="R16" pin="1" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="OUTA" pintype="output"/>
     </net>
-    <net code="10" name="/Output Stage/VBias_L">
+    <net code="11" name="/Output Stage/VBias_L">
       <node ref="C25" pin="2" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="U3" pin="3" pinfunction="+INA" pintype="input"/>
       <node ref="U3" pin="5" pinfunction="+INB" pintype="input"/>
     </net>
-    <net code="11" name="/Output Stage/VBias_R">
+    <net code="12" name="/Output Stage/VBias_R">
       <node ref="C24" pin="2" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="+INA" pintype="input"/>
       <node ref="U2" pin="5" pinfunction="+INB" pintype="input"/>
     </net>
-    <net code="12" name="AVCC_L">
+    <net code="13" name="AVCC_L">
       <node ref="C46" pin="1" pintype="passive"/>
       <node ref="C52" pin="1" pintype="passive"/>
       <node ref="C56" pin="1" pintype="passive"/>
       <node ref="C59" pin="1" pintype="passive"/>
       <node ref="IC2" pin="10" pinfunction="AVCC_L" pintype="passive"/>
-      <node ref="IC6" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="IC7" pin="5" pinfunction="OUT" pintype="output"/>
       <node ref="R14" pin="2" pintype="passive"/>
     </net>
-    <net code="13" name="AVCC_R">
+    <net code="14" name="AVCC_R">
       <node ref="C47" pin="1" pintype="passive"/>
       <node ref="C53" pin="1" pintype="passive"/>
       <node ref="C57" pin="1" pintype="passive"/>
       <node ref="C60" pin="1" pintype="passive"/>
+      <node ref="IC11" pin="5" pinfunction="OUT" pintype="output"/>
       <node ref="IC2" pin="1" pinfunction="AVCC_R" pintype="passive"/>
-      <node ref="IC7" pin="5" pinfunction="VOUT" pintype="power_out"/>
       <node ref="R12" pin="2" pintype="passive"/>
     </net>
-    <net code="14" name="DAC_5V">
+    <net code="15" name="DAC_5V">
       <node ref="C39" pin="1" pintype="passive"/>
       <node ref="C40" pin="1" pintype="passive"/>
       <node ref="C41" pin="1" pintype="passive"/>
@@ -3314,75 +3362,75 @@
       <node ref="C62" pin="1" pintype="passive"/>
       <node ref="C66" pin="2" pintype="passive"/>
       <node ref="FB3" pin="2" pintype="passive"/>
-      <node ref="IC5" pin="1" pinfunction="VIN" pintype="passive"/>
-      <node ref="IC6" pin="1" pinfunction="VIN" pintype="passive"/>
-      <node ref="IC7" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="IC11" pin="1" pinfunction="IN" pintype="input"/>
+      <node ref="IC6" pin="1" pinfunction="IN" pintype="input"/>
+      <node ref="IC7" pin="1" pinfunction="IN" pintype="input"/>
       <node ref="IC8" pin="6" pinfunction="VIN" pintype="passive"/>
       <node ref="IC8" pin="7" pinfunction="C1+" pintype="passive"/>
-      <node ref="IC9" pin="7" pinfunction="VIN_1" pintype="passive"/>
-      <node ref="IC9" pin="8" pinfunction="VIN_2" pintype="passive"/>
+      <node ref="IC9" pin="7" pinfunction="VIN_1" pintype="power_in"/>
+      <node ref="IC9" pin="8" pinfunction="VIN_2" pintype="power_in"/>
     </net>
-    <net code="15" name="DAC_GPIO1">
+    <net code="16" name="DAC_GPIO1">
       <node ref="IC2" pin="17" pinfunction="GPIO1" pintype="passive"/>
       <node ref="IC3" pin="52" pinfunction="PA5" pintype="passive"/>
     </net>
-    <net code="16" name="DAC_GPIO2">
+    <net code="17" name="DAC_GPIO2">
       <node ref="IC2" pin="16" pinfunction="GPIO2" pintype="passive"/>
       <node ref="IC3" pin="53" pinfunction="PD17" pintype="passive"/>
     </net>
-    <net code="17" name="DAC_OUTL_N">
+    <net code="18" name="DAC_OUTL_N">
       <node ref="C28" pin="2" pintype="passive"/>
       <node ref="IC2" pin="9" pinfunction="DACLB" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="U3" pin="2" pinfunction="-INA" pintype="input"/>
     </net>
-    <net code="18" name="DAC_OUTL_P">
+    <net code="19" name="DAC_OUTL_P">
       <node ref="C29" pin="1" pintype="passive"/>
       <node ref="IC2" pin="8" pinfunction="DACL" pintype="passive"/>
       <node ref="R19" pin="1" pintype="passive"/>
       <node ref="U3" pin="6" pinfunction="-INB" pintype="input"/>
     </net>
-    <net code="19" name="DAC_OUTR_N">
+    <net code="20" name="DAC_OUTR_N">
       <node ref="C26" pin="2" pintype="passive"/>
       <node ref="IC2" pin="2" pinfunction="DACRB" pintype="passive"/>
       <node ref="R16" pin="2" pintype="passive"/>
       <node ref="U2" pin="2" pinfunction="-INA" pintype="input"/>
     </net>
-    <net code="20" name="DAC_OUTR_P">
+    <net code="21" name="DAC_OUTR_P">
       <node ref="C27" pin="1" pintype="passive"/>
       <node ref="IC2" pin="3" pinfunction="DACR" pintype="passive"/>
       <node ref="R17" pin="1" pintype="passive"/>
       <node ref="U2" pin="6" pinfunction="-INB" pintype="input"/>
     </net>
-    <net code="21" name="DAC_PWR_EN">
+    <net code="22" name="DAC_PWR_EN">
       <node ref="C61" pin="1" pintype="passive"/>
-      <node ref="IC5" pin="3" pinfunction="EN" pintype="passive"/>
-      <node ref="IC6" pin="3" pinfunction="EN" pintype="passive"/>
-      <node ref="IC7" pin="3" pinfunction="EN" pintype="passive"/>
+      <node ref="IC11" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="IC6" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="IC7" pin="3" pinfunction="EN" pintype="input"/>
       <node ref="IC9" pin="5" pinfunction="EN" pintype="input"/>
       <node ref="R29" pin="2" pintype="passive"/>
     </net>
-    <net code="22" name="DAC_SCL">
+    <net code="23" name="DAC_SCL">
       <node ref="IC2" pin="23" pinfunction="SCL" pintype="passive"/>
       <node ref="IC3" pin="55" pinfunction="PA4" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
     </net>
-    <net code="23" name="DAC_SDA">
+    <net code="24" name="DAC_SDA">
       <node ref="IC2" pin="24" pinfunction="SDA" pintype="passive"/>
       <node ref="IC3" pin="64" pinfunction="PA3" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
     </net>
-    <net code="24" name="DAC_nRESET">
+    <net code="25" name="DAC_nRESET">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="IC2" pin="21" pinfunction="RESETB" pintype="passive"/>
       <node ref="IC3" pin="54" pinfunction="PA9" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
-    <net code="25" name="ERASE">
+    <net code="26" name="ERASE">
       <node ref="IC3" pin="61" pinfunction="PB12" pintype="passive"/>
       <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="26" name="GND">
+    <net code="27" name="GND">
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
       <node ref="C12" pin="1" pintype="passive"/>
@@ -3411,6 +3459,7 @@
       <node ref="C63" pin="2" pintype="passive"/>
       <node ref="C65" pin="1" pintype="passive"/>
       <node ref="C66" pin="1" pintype="passive"/>
+      <node ref="C67" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C72" pin="2" pintype="passive"/>
       <node ref="C73" pin="2" pintype="passive"/>
@@ -3421,6 +3470,8 @@
       <node ref="C78" pin="2" pintype="passive"/>
       <node ref="C79" pin="1" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C81" pin="2" pintype="passive"/>
+      <node ref="C82" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
       <node ref="D3" pin="2" pinfunction="GND" pintype="passive"/>
       <node ref="FB10" pin="1" pintype="passive"/>
@@ -3432,7 +3483,7 @@
       <node ref="FB9" pin="1" pintype="passive"/>
       <node ref="IC10" pin="5" pinfunction="GND" pintype="passive"/>
       <node ref="IC10" pin="7" pinfunction="EP" pintype="passive"/>
-      <node ref="IC11" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="IC11" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="IC2" pin="14" pinfunction="DGND" pintype="passive"/>
       <node ref="IC2" pin="22" pinfunction="RT1" pintype="passive"/>
       <node ref="IC2" pin="25" pinfunction="ADDR" pintype="passive"/>
@@ -3444,10 +3495,10 @@
       <node ref="IC3" pin="67" pinfunction="GND_6" pintype="passive"/>
       <node ref="IC3" pin="7" pinfunction="GND_2" pintype="passive"/>
       <node ref="IC3" pin="8" pinfunction="GND_3" pintype="passive"/>
-      <node ref="IC4" pin="2" pinfunction="GND" pintype="passive"/>
-      <node ref="IC5" pin="2" pinfunction="GND" pintype="passive"/>
-      <node ref="IC6" pin="2" pinfunction="GND" pintype="passive"/>
-      <node ref="IC7" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC7" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="IC8" pin="5" pinfunction="GND" pintype="passive"/>
       <node ref="IC9" pin="9" pinfunction="GND_2" pintype="power_in"/>
       <node ref="J2" pin="1" pinfunction="GND" pintype="input"/>
@@ -3465,7 +3516,7 @@
       <node ref="Y3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Y3" pin="4" pinfunction="4" pintype="passive"/>
     </net>
-    <net code="27" name="GNDREF">
+    <net code="28" name="GNDREF">
       <node ref="C16" pin="1" pintype="passive"/>
       <node ref="C17" pin="1" pintype="passive"/>
       <node ref="C18" pin="1" pintype="passive"/>
@@ -3515,260 +3566,257 @@
       <node ref="U4" pin="11" pinfunction="Thermal_pad" pintype="passive"/>
       <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="28" name="JTAG_SEL">
+    <net code="29" name="JTAG_SEL">
       <node ref="IC3" pin="73" pinfunction="JTAGSEL" pintype="passive"/>
       <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="29" name="JTAG_TCLK">
+    <net code="30" name="JTAG_TCLK">
       <node ref="IC3" pin="63" pinfunction="PB7" pintype="passive"/>
       <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="30" name="JTAG_TDI">
+    <net code="31" name="JTAG_TDI">
       <node ref="IC3" pin="74" pinfunction="PB4" pintype="passive"/>
       <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
     </net>
-    <net code="31" name="JTAG_TDO">
+    <net code="32" name="JTAG_TDO">
       <node ref="IC3" pin="77" pinfunction="PB5" pintype="passive"/>
       <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
     </net>
-    <net code="32" name="JTAG_TMS">
+    <net code="33" name="JTAG_TMS">
       <node ref="IC3" pin="57" pinfunction="PB6" pintype="passive"/>
       <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R36" pin="1" pintype="passive"/>
     </net>
-    <net code="33" name="MCU_5V">
+    <net code="34" name="MCU_5V">
       <node ref="C38" pin="1" pintype="passive"/>
       <node ref="C48" pin="2" pintype="passive"/>
       <node ref="C49" pin="1" pintype="passive"/>
       <node ref="C73" pin="1" pintype="passive"/>
       <node ref="FB4" pin="2" pintype="passive"/>
-      <node ref="IC11" pin="1" pinfunction="VIN" pintype="passive"/>
-      <node ref="IC4" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="IC4" pin="1" pinfunction="IN" pintype="input"/>
+      <node ref="IC5" pin="1" pinfunction="IN" pintype="input"/>
       <node ref="R28" pin="2" pintype="passive"/>
       <node ref="R37" pin="2" pintype="passive"/>
     </net>
-    <net code="34" name="MCU_RESET">
+    <net code="35" name="MCU_RESET">
       <node ref="IC3" pin="58" pinfunction="NRST" pintype="passive"/>
       <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
     </net>
-    <net code="35" name="Net-(C2-Pad1)">
+    <net code="36" name="Net-(C2-Pad1)">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="IC2" pin="15" pinfunction="DVDD" pintype="passive"/>
     </net>
-    <net code="36" name="Net-(C6-Pad1)">
+    <net code="37" name="Net-(C6-Pad1)">
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="IC3" pin="97" pinfunction="VBG" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
     </net>
-    <net code="37" name="Net-(C7-Pad1)">
+    <net code="38" name="Net-(C7-Pad1)">
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="IC3" pin="98" pinfunction="PB8" pintype="passive"/>
       <node ref="Y3" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="38" name="Net-(C8-Pad1)">
+    <net code="39" name="Net-(C8-Pad1)">
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="IC3" pin="99" pinfunction="PB9" pintype="passive"/>
       <node ref="Y3" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="39" name="Net-(C30-Pad1)">
+    <net code="40" name="Net-(C30-Pad1)">
       <node ref="C30" pin="1" pintype="passive"/>
       <node ref="R20" pin="1" pintype="passive"/>
       <node ref="R23" pin="2" pintype="passive"/>
       <node ref="U4" pin="1" pinfunction="+INA" pintype="input"/>
     </net>
-    <net code="40" name="Net-(C31-Pad2)">
+    <net code="41" name="Net-(C31-Pad2)">
       <node ref="C31" pin="2" pintype="passive"/>
       <node ref="R24" pin="1" pintype="passive"/>
       <node ref="R25" pin="2" pintype="passive"/>
       <node ref="U4" pin="5" pinfunction="+INB" pintype="input"/>
     </net>
-    <net code="41" name="Net-(C34-Pad2)">
+    <net code="42" name="Net-(C34-Pad2)">
       <node ref="C34" pin="2" pintype="passive"/>
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="R26" pin="2" pintype="passive"/>
       <node ref="U4" pin="10" pinfunction="-INA" pintype="input"/>
     </net>
-    <net code="42" name="Net-(C35-Pad1)">
+    <net code="43" name="Net-(C35-Pad1)">
       <node ref="C35" pin="1" pintype="passive"/>
       <node ref="R21" pin="1" pintype="passive"/>
       <node ref="R27" pin="1" pintype="passive"/>
       <node ref="U4" pin="6" pinfunction="-INB" pintype="input"/>
     </net>
-    <net code="43" name="Net-(C63-Pad1)">
+    <net code="44" name="Net-(C63-Pad1)">
       <node ref="C63" pin="1" pintype="passive"/>
       <node ref="IC9" pin="6" pinfunction="SS" pintype="input"/>
     </net>
-    <net code="44" name="Net-(C64-Pad1)">
+    <net code="45" name="Net-(C64-Pad1)">
       <node ref="C64" pin="1" pintype="passive"/>
       <node ref="IC8" pin="2" pinfunction="C2+" pintype="passive"/>
     </net>
-    <net code="45" name="Net-(C64-Pad2)">
+    <net code="46" name="Net-(C64-Pad2)">
       <node ref="C64" pin="2" pintype="passive"/>
       <node ref="IC8" pin="3" pinfunction="C2-" pintype="passive"/>
     </net>
-    <net code="46" name="Net-(C65-Pad2)">
+    <net code="47" name="Net-(C65-Pad2)">
       <node ref="C65" pin="2" pintype="passive"/>
       <node ref="IC10" pin="3" pinfunction="EN" pintype="passive"/>
       <node ref="IC10" pin="6" pinfunction="VIN" pintype="passive"/>
       <node ref="IC8" pin="4" pinfunction="-VOUT" pintype="passive"/>
     </net>
-    <net code="47" name="Net-(C68-Pad1)">
+    <net code="48" name="Net-(C68-Pad1)">
       <node ref="C68" pin="1" pintype="passive"/>
       <node ref="IC9" pin="3" pinfunction="SENSE/ADJ" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
       <node ref="R31" pin="2" pintype="passive"/>
     </net>
-    <net code="48" name="Net-(C70-Pad1)">
+    <net code="49" name="Net-(C70-Pad1)">
       <node ref="C70" pin="1" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
     </net>
-    <net code="49" name="Net-(C80-Pad2)">
+    <net code="50" name="Net-(C80-Pad2)">
       <node ref="C80" pin="2" pintype="passive"/>
       <node ref="R38" pin="1" pintype="passive"/>
     </net>
-    <net code="50" name="Net-(D2-Pad1)">
+    <net code="51" name="Net-(D2-Pad1)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="IC3" pin="23" pinfunction="PD30" pintype="passive"/>
     </net>
-    <net code="51" name="Net-(D2-Pad2)">
+    <net code="52" name="Net-(D2-Pad2)">
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="52" name="Net-(D3-Pad1)">
+    <net code="53" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="I/O_1_1" pintype="passive"/>
       <node ref="J2" pin="5" pinfunction="DN2" pintype="input"/>
       <node ref="J2" pin="7" pinfunction="DN1" pintype="input"/>
     </net>
-    <net code="53" name="Net-(D3-Pad3)">
+    <net code="54" name="Net-(D3-Pad3)">
       <node ref="D3" pin="3" pinfunction="I/O_2_1" pintype="passive"/>
       <node ref="J2" pin="6" pinfunction="DP1" pintype="input"/>
       <node ref="J2" pin="8" pinfunction="DP2" pintype="input"/>
     </net>
-    <net code="54" name="Net-(F2-Pad1)">
+    <net code="55" name="Net-(F2-Pad1)">
       <node ref="F2" pin="1" pintype="passive"/>
       <node ref="J2" pin="11" pinfunction="VBUS" pintype="input"/>
       <node ref="J2" pin="2" pinfunction="VBUS" pintype="input"/>
     </net>
-    <net code="55" name="Net-(IC2-Pad28)">
+    <net code="56" name="Net-(IC2-Pad28)">
       <node ref="IC2" pin="28" pinfunction="XOUT" pintype="passive"/>
       <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="56" name="Net-(IC2-Pad29)">
+    <net code="57" name="Net-(IC2-Pad29)">
       <node ref="IC2" pin="29" pinfunction="XI" pintype="passive"/>
       <node ref="Y2" pin="3" pinfunction="OUT" pintype="passive"/>
     </net>
-    <net code="57" name="Net-(IC4-Pad3)">
-      <node ref="IC4" pin="3" pinfunction="EN" pintype="passive"/>
+    <net code="58" name="Net-(IC4-Pad3)">
+      <node ref="IC4" pin="3" pinfunction="EN" pintype="input"/>
       <node ref="R28" pin="1" pintype="passive"/>
     </net>
-    <net code="58" name="Net-(IC10-Pad2)">
+    <net code="59" name="Net-(IC5-Pad3)">
+      <node ref="IC5" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(IC10-Pad2)">
       <node ref="IC10" pin="2" pinfunction="ADJ" pintype="passive"/>
       <node ref="R32" pin="2" pintype="passive"/>
       <node ref="R33" pin="1" pintype="passive"/>
       <node ref="R38" pin="2" pintype="passive"/>
     </net>
-    <net code="59" name="Net-(IC11-Pad3)">
-      <node ref="IC11" pin="3" pinfunction="EN" pintype="passive"/>
-      <node ref="R37" pin="1" pintype="passive"/>
-    </net>
-    <net code="60" name="Net-(J2-Pad4)">
+    <net code="61" name="Net-(J2-Pad4)">
       <node ref="J2" pin="4" pinfunction="CC1" pintype="input"/>
       <node ref="R34" pin="1" pintype="passive"/>
     </net>
-    <net code="61" name="Net-(J2-Pad10)">
+    <net code="62" name="Net-(J2-Pad10)">
       <node ref="J2" pin="10" pinfunction="CC2" pintype="input"/>
       <node ref="R35" pin="1" pintype="passive"/>
     </net>
-    <net code="62" name="Net-(J5-Pad1)">
+    <net code="63" name="Net-(J5-Pad1)">
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="63" name="Net-(R3-Pad2)">
+    <net code="64" name="Net-(R3-Pad2)">
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="Y2" pin="1" pinfunction="~{ST}" pintype="passive"/>
     </net>
-    <net code="64" name="OLED_3V3">
+    <net code="65" name="OLED_3V3">
       <node ref="C74" pin="1" pintype="passive"/>
       <node ref="C75" pin="1" pintype="passive"/>
       <node ref="C76" pin="1" pintype="passive"/>
       <node ref="C77" pin="1" pintype="passive"/>
-      <node ref="IC11" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="IC5" pin="5" pinfunction="OUT" pintype="output"/>
       <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="65" name="OLED_SCL">
+    <net code="66" name="OLED_SCL">
       <node ref="IC3" pin="51" pinfunction="PD28" pintype="passive"/>
       <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
     </net>
-    <net code="66" name="OLED_SDA">
+    <net code="67" name="OLED_SDA">
       <node ref="IC3" pin="32" pinfunction="PD27" pintype="passive"/>
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
     </net>
-    <net code="67" name="OUTL">
+    <net code="68" name="OUTL">
       <node ref="C35" pin="2" pintype="passive"/>
       <node ref="J7" pin="3" pintype="passive"/>
       <node ref="R27" pin="2" pintype="passive"/>
       <node ref="U4" pin="7" pinfunction="OUTB" pintype="output"/>
     </net>
-    <net code="68" name="OUTR">
+    <net code="69" name="OUTR">
       <node ref="C34" pin="1" pintype="passive"/>
       <node ref="J7" pin="5" pintype="passive"/>
       <node ref="R26" pin="1" pintype="passive"/>
       <node ref="U4" pin="9" pinfunction="OUTA" pintype="output"/>
     </net>
-    <net code="69" name="PCM_BCLK">
+    <net code="70" name="PCM_BCLK">
       <node ref="IC2" pin="20" pinfunction="DATA_CLK" pintype="passive"/>
       <node ref="IC3" pin="70" pinfunction="PA1" pintype="passive"/>
     </net>
-    <net code="70" name="PCM_LRCLK">
+    <net code="71" name="PCM_LRCLK">
       <node ref="IC2" pin="19" pinfunction="DATA1" pintype="passive"/>
       <node ref="IC3" pin="33" pinfunction="PA15" pintype="passive"/>
     </net>
-    <net code="71" name="PCM_SIN">
+    <net code="72" name="PCM_SIN">
       <node ref="IC2" pin="18" pinfunction="DATA2" pintype="passive"/>
       <node ref="IC3" pin="30" pinfunction="PA16" pintype="passive"/>
     </net>
-    <net code="72" name="USB_D+">
+    <net code="73" name="USB_D+">
       <node ref="D3" pin="4" pinfunction="I/O_2_2" pintype="passive"/>
       <node ref="IC3" pin="95" pinfunction="HSDP" pintype="passive"/>
     </net>
-    <net code="73" name="USB_D-">
+    <net code="74" name="USB_D-">
       <node ref="D3" pin="6" pinfunction="I/O_1_2" pintype="passive"/>
       <node ref="IC3" pin="94" pinfunction="HSDM" pintype="passive"/>
     </net>
-    <net code="74" name="VBUS">
+    <net code="75" name="VBUS">
       <node ref="C72" pin="1" pintype="passive"/>
       <node ref="D3" pin="5" pinfunction="VDD" pintype="passive"/>
       <node ref="F2" pin="2" pintype="passive"/>
       <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="75" name="unconnected-(IC2-Pad4)">
+    <net code="76" name="unconnected-(IC2-Pad4)">
       <node ref="IC2" pin="4" pinfunction="BIAS" pintype="passive+no_connect"/>
     </net>
-    <net code="76" name="unconnected-(IC2-Pad5)">
+    <net code="77" name="unconnected-(IC2-Pad5)">
       <node ref="IC2" pin="5" pinfunction="SW" pintype="passive+no_connect"/>
     </net>
-    <net code="77" name="unconnected-(IC2-Pad6)">
+    <net code="78" name="unconnected-(IC2-Pad6)">
       <node ref="IC2" pin="6" pinfunction="FSYNC" pintype="passive+no_connect"/>
     </net>
-    <net code="78" name="unconnected-(IC2-Pad7)">
+    <net code="79" name="unconnected-(IC2-Pad7)">
       <node ref="IC2" pin="7" pinfunction="HPSDB" pintype="passive+no_connect"/>
     </net>
-    <net code="79" name="unconnected-(IC2-Pad26)">
+    <net code="80" name="unconnected-(IC2-Pad26)">
       <node ref="IC2" pin="26" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="80" name="unconnected-(IC3-Pad1)">
+    <net code="81" name="unconnected-(IC3-Pad1)">
       <node ref="IC3" pin="1" pinfunction="PD0" pintype="passive+no_connect"/>
     </net>
-    <net code="81" name="unconnected-(IC3-Pad2)">
+    <net code="82" name="unconnected-(IC3-Pad2)">
       <node ref="IC3" pin="2" pinfunction="PD31" pintype="passive+no_connect"/>
-    </net>
-    <net code="82" name="unconnected-(IC3-Pad4)">
-      <node ref="IC3" pin="4" pinfunction="VDDOUT" pintype="passive+no_connect"/>
     </net>
     <net code="83" name="unconnected-(IC3-Pad11)">
       <node ref="IC3" pin="11" pinfunction="PB1" pintype="passive+no_connect"/>
