@@ -156,4 +156,28 @@ K
 F https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf
 $ENDCMP
 #
+$CMP LM2776DBVT
+D TEXAS INSTRUMENTS - LM2776DBVT - CHARGE PUMP, INV, -2.7V TO -5.5V, SOT-23
+K
+F http://www.ti.com/lit/ds/symlink/lm2776.pdf
+$ENDCMP
+#
+$CMP MAX889SESA+
+D MAXIM INTEGRATED PRODUCTS - MAX889SESA+ - DC/DC Adjustable Charge Pump Voltage Converter, 2.7V to 5.5V in, -5.5V to -2.5V/200 mA out, NSOIC-8
+K
+F https://pdfserv.maximintegrated.com/en/ds/MAX889.pdf
+$ENDCMP
+#
+$CMP MAX38902AATA+T
+D LDO Voltage Regulators 500mA Low Noise LDO Linear Regulator in TDFN and WLP Packages
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Maxim%20PDFs/MAX38902A_B_C_D_Rev4_12-6-18.pdf
+$ENDCMP
+#
+$CMP ACM4520-421-2P-T000
+D Common Mode Choke 420R 12,4A R055 SMD TDK ACM Series Shielded SMD Common Mode Line Filter with a Ferrite Core, Wire-Wound 2.8A Idc
+K
+F https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_commercial_power_acm4520_en.pdf
+$ENDCMP
+#
 #End Doc Library

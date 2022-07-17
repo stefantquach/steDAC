@@ -921,4 +921,111 @@ P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model LM2776DBVT
+#/270100/738397/2.49/6/3/Integrated Circuit
+DEF LM2776DBVT IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "LM2776DBVT" 950 200 50 H V L CNN
+F2 "SOT95P280X145-6N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/lm2776.pdf" 950 0 50 H I L CNN
+F4 "TEXAS INSTRUMENTS - LM2776DBVT - CHARGE PUMP, INV, -2.7V TO -5.5V, SOT-23" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LM2776DBVT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-LM2776DBVT" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2776DBVT?qs=GJ%2F2ZGcr5uMLAYYW9ugYkg%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LM2776DBVT" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/lm2776dbvt/texas-instruments?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VOUT 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X VIN 3 0 -200 200 R 50 50 0 0 P
+X C1- 6 1100 0 200 L 50 50 0 0 P
+X C1+ 5 1100 -100 200 L 50 50 0 0 P
+X EN 4 1100 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MAX889SESA+
+#/757382/738397/2.49/8/2/Integrated Circuit
+DEF MAX889SESA+ IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "MAX889SESA+" 1050 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 100 50 H I L CNN
+F3 "https://pdfserv.maximintegrated.com/en/ds/MAX889.pdf" 1050 0 50 H I L CNN
+F4 "MAXIM INTEGRATED PRODUCTS - MAX889SESA+ - DC/DC Adjustable Charge Pump Voltage Converter, 2.7V to 5.5V in, -5.5V to -2.5V/200 mA out, NSOIC-8" 1050 -100 50 H I L CNN "Description"
+F5 "1.75" 1050 -200 50 H I L CNN "Height"
+F6 "Maxim Integrated" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MAX889SESA+" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "700-MAX889SESA" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX889SESA%2b?qs=1THa7WoU59FGDEg4H3gIlw%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MAX889SESA+" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/max889sesa/maxim-integrated?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X IN 1 0 0 200 R 50 50 0 0 P
+X CAP+ 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X CAP- 4 0 -300 200 R 50 50 0 0 P
+X AGND 8 1200 0 200 L 50 50 0 0 P
+X FB 7 1200 -100 200 L 50 50 0 0 P
+X ~SHDN 6 1200 -200 200 L 50 50 0 0 P
+X OUT 5 1200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MAX38902AATA+T
+#/1353080/738397/2.49/9/3/Integrated Circuit
+DEF MAX38902AATA+T IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "MAX38902AATA+T" 1050 200 50 H V L CNN
+F2 "SON50P200X200X80-9N-D" 1050 100 50 H I L CNN
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Maxim%20PDFs/MAX38902A_B_C_D_Rev4_12-6-18.pdf" 1050 0 50 H I L CNN
+F4 "LDO Voltage Regulators 500mA Low Noise LDO Linear Regulator in TDFN and WLP Packages" 1050 -100 50 H I L CNN "Description"
+F5 "0.8" 1050 -200 50 H I L CNN "Height"
+F6 "Maxim Integrated" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MAX38902AATA+T" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "700-MAX38902AATA+T" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX38902AATA%2bT?qs=rrS6PyfT74ceu65lHXtPmw%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X IN 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X EN 3 0 -200 200 R 50 50 0 0 P
+X SELA 4 0 -300 200 R 50 50 0 0 P
+X EP 9 600 -800 200 U 50 50 0 0 P
+X OUT 8 1200 0 200 L 50 50 0 0 P
+X BYP 7 1200 -100 200 L 50 50 0 0 P
+X OUTS 6 1200 -200 200 L 50 50 0 0 P
+X SELB 5 1200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ACM4520-421-2P-T000
+#/273353/738397/2.49/4/2/Filter
+DEF ACM4520-421-2P-T000 FL 0 30 Y Y 1 F N
+F0 "FL" 650 300 50 H V L CNN
+F1 "ACM4520-421-2P-T000" 650 200 50 H V L CNN
+F2 "ACM4520" 650 100 50 H I L CNN
+F3 "https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_commercial_power_acm4520_en.pdf" 650 0 50 H I L CNN
+F4 "Common Mode Choke 420R 12,4A R055 SMD TDK ACM Series Shielded SMD Common Mode Line Filter with a Ferrite Core, Wire-Wound 2.8A Idc" 650 -100 50 H I L CNN "Description"
+F5 "2" 650 -200 50 H I L CNN "Height"
+F6 "TDK" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ACM4520-421-2P-T000" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "810-ACM45204212PT000" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TDK/ACM4520-421-2P-T000?qs=5GteYzHiykadPYvTnTGXZg%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ACM4520-421-2P-T000" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/acm4520-421-2p-t000/tdk?region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 -100 200 R 50 50 0 0 P
+X 2 2 800 -100 200 L 50 50 0 0 P
+X 3 3 800 0 200 L 50 50 0 0 P
+X 4 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

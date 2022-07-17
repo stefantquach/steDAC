@@ -1,0 +1,64 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: twihs2}
+children:
+- type: Symbols
+  children:
+  - type: Integer
+    attributes: {id: I2C_CLOCK_SPEED}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: '100000'}
+  - type: Integer
+    attributes: {id: I2C_CLOCK_SPEED_HZ}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: twihs2, value: '100000'}
+  - type: Integer
+    attributes: {id: TWIHS_CLK_SRC_FREQ}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: twihs2, value: '150000000'}
+  - type: Integer
+    attributes: {id: TWIHS_CWGR_CHDIV}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: twihs2, value: '186'}
+  - type: Integer
+    attributes: {id: TWIHS_CWGR_CKDIV}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: twihs2, value: '2'}
+  - type: Integer
+    attributes: {id: TWIHS_CWGR_CLDIV}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: twihs2, value: '186'}
+  - type: Boolean
+    attributes: {id: TWIHS_INTERRUPT_MODE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: twihs2, value: 'true'}
+  - type: Combo
+    attributes: {id: TWIHS_OPMODE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: twihs2, value: MASTER}
+- type: ElementPosition
+  attributes: {x: '51', y: '236', id: twihs2}

@@ -1,0 +1,14 @@
+configName: default
+folderName: steDAC_firmware
+format_version: v1.0
+frameworkPath: ..\..\..\..\..\Harmony3
+processor: ATSAMS70N19B
+projectName: steDAC_firmware
+settings:
+  PackageFilter: audio;audio_apps;bootloader;bootloader_apps_usb;bsp;classb_sam_e70_s70_v70_v71;core;core_apps_sam_e70_s70_v70_v71;crypto;csp;csp_apps_pic32mx;csp_apps_sam_e70_s70_v70_v71;dev_packs;gfx;gfx_apps_sam_e70_s70_v70_v71;harmony-services;net;net_apps_pic32mx;quick_docs;touch;usb;usb_apps_device
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAMS70_DFP\4.6.82\sams70b\atdf\ATSAMS70N19B.atdf

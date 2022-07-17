@@ -1,0 +1,57 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: usb_device}
+children:
+- type: Symbols
+  children:
+  - type: Boolean
+    attributes: {id: CONFIG_USB_DEVICE_ATTRIBUTE_SELF_POWERED}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: 'false'}
+  - type: Integer
+    attributes: {id: CONFIG_USB_DEVICE_CONFIG_DESCRPTR_SIZE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: usb_device, value: '175'}
+  - type: Boolean
+    attributes: {id: CONFIG_USB_DEVICE_DESCRIPTOR_IAD_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: usb_device, value: 'true'}
+  - type: Integer
+    attributes: {id: CONFIG_USB_DEVICE_ENDPOINTS_NUMBER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: usb_device, value: '5'}
+  - type: Integer
+    attributes: {id: CONFIG_USB_DEVICE_FUNCTIONS_NUMBER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: usb_device, value: '2'}
+  - type: Integer
+    attributes: {id: CONFIG_USB_DEVICE_INTERFACES_NUMBER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: usb_device, value: '4'}
+  - type: String
+    attributes: {id: CONFIG_USB_DEVICE_PRODUCT_STRING_DESCRIPTOR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: steDAC}
+- type: ElementPosition
+  attributes: {x: '291', y: '581', id: usb_device}

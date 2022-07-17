@@ -1,0 +1,148 @@
+format_version: v1.0
+type: GeneratorComponent
+attributes: {id: usb_device_audio}
+children:
+- type: Instances
+  children:
+  - type: InstanceComponent
+    attributes: {instance: '0', id: usb_device_audio}
+    children:
+    - type: Symbols
+      children:
+      - type: Combo
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_AUDIO_DEVICE_TYPE}
+        children:
+        - type: Values
+          children:
+          - type: User
+            attributes: {value: Audio v2.0 USB Speaker}
+      - type: Integer
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_AUDIO_MAX_ALTERNATE_SETTING}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: '2'}
+      - type: Integer
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_AUDIO_STREAMING_INTERFACES_NUMBER}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: '1'}
+      - type: Combo
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_AUDIO_VERSION}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: Audio v2}
+      - type: Integer
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_INTERFACE_NUMBER}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: '0'}
+      - type: Integer
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_IN_ENDPOINT_NUMBER}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: '2'}
+      - type: Integer
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_NUMBER_OF_INTERFACES}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: '2'}
+      - type: Integer
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_OUT_ENDPOINT_NUMBER}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: '1'}
+      - type: Boolean
+        attributes: {id: CONFIG_USB_DEVICE_FUNCTION_USE_IAD}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: 'true'}
+      - type: File
+        attributes: {id: USB_AUDIO_HEADER_FILE}
+        children:
+        - type: Attributes
+          children:
+          - type: String
+            attributes: {id: name}
+            children:
+            - {type: Value, value: usb_audio_v2_0.h}
+          - type: String
+            attributes: {id: source}
+            children:
+            - {type: Value, value: middleware/usb_audio_v2_0.h}
+      - type: Integer
+        attributes: {id: USB_DEVICE_AUDIO_FUNCTION_DESCRIPTOR_SIZE_CURRENT}
+        children:
+        - type: Values
+          children:
+          - type: Dynamic
+            attributes: {id: usb_device_audio_0, value: '100'}
+      - type: File
+        attributes: {id: USB_DEVICE_AUDIO_HEADER_FILE}
+        children:
+        - type: Attributes
+          children:
+          - type: String
+            attributes: {id: name}
+            children:
+            - {type: Value, value: usb_device_audio_v2_0.h}
+          - type: String
+            attributes: {id: source}
+            children:
+            - {type: Value, value: middleware/usb_device_audio_v2_0.h}
+      - type: File
+        attributes: {id: USB_DEVICE_AUDIO_LOCAL_HEADER_FILE}
+        children:
+        - type: Attributes
+          children:
+          - type: String
+            attributes: {id: name}
+            children:
+            - {type: Value, value: usb_device_audio_v2_local.h}
+          - type: String
+            attributes: {id: source}
+            children:
+            - {type: Value, value: middleware/src/usb_device_audio_v2_local.h}
+      - type: File
+        attributes: {id: USB_DEVICE_AUDIO_SOURCE_FILE}
+        children:
+        - type: Attributes
+          children:
+          - type: String
+            attributes: {id: name}
+            children:
+            - {type: Value, value: usb_device_audio_v2_0.c}
+          - type: String
+            attributes: {id: source}
+            children:
+            - {type: Value, value: middleware/src/usb_device_audio_v2_0.c}
+      - type: File
+        attributes: {id: USB_DEVICE_AUDIO_TRANSFER_SOURCE_FILE}
+        children:
+        - type: Attributes
+          children:
+          - type: String
+            attributes: {id: name}
+            children:
+            - {type: Value, value: usb_device_audio_v2_read_write.c}
+          - type: String
+            attributes: {id: source}
+            children:
+            - {type: Value, value: middleware/src/usb_device_audio_v2_read_write.c}
+- type: ElementPosition
+  attributes: {x: '512', y: '575', id: usb_device_audio}
