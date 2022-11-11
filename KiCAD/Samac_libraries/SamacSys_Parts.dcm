@@ -180,4 +180,10 @@ K
 F https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_commercial_power_acm4520_en.pdf
 $ENDCMP
 #
+$CMP ATMEGA32U4-AU
+D MCU AVR 32K FLASH 16MHZ 44-TQFP Atmel ATMEGA32U4-AU, 8bit AVR Microcontroller, 16MHz, 1 kB, 32 kB Flash, 44-Pin TQFP
+K
+F http://www.atmel.com/images/atmel-7766-8-bit-avr-atmega16u4-32u4_summary.pdf
+$ENDCMP
+#
 #End Doc Library
